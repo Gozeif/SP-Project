@@ -1,0 +1,98 @@
+const int MAX_Players = 34 ;
+
+struct Date
+{
+	int day , month , year ;
+};
+
+struct Player
+{
+	int ID;
+	string Name;
+	Date Birth_date;
+	string Nationality;
+};
+
+struct Team
+{
+	int ID;
+	string Name;
+	Player Players[MAX_Players];
+};
+
+// Function to get max days in a month
+int daysInMonth(int month) 
+{
+    switch(month) 
+    {
+        case 1: case 3: case 5: case 7: case 8: case 10: case 12:
+            return 31;
+
+        case 4: case 6: case 9: case 11:
+            return 30;
+
+        case 2:
+            return 28;
+
+        default:
+            return 0;
+    }
+}
+
+void AddPlayer(Player &pl)
+{
+	cout << "Player ID : " ;
+	cin >> pl.ID ;
+    cin.ignore() ;
+	
+	cout << "Player Name : " ;
+	getline(cin , pl.Name) ; // to get spaces as a char and not end the input when encountering a space 
+
+	cout << "Player date of birth : \n" ;
+
+	do 
+    {
+        cout << "Year --> ";
+        cin >> pl.Birth_date.year;
+
+    } while(pl.Birth_date.year < 0 || pl.Birth_date.year > 2025); // to ensure that the user enters a valid year 
+	
+    do 
+    {
+        cout << "Month --> ";
+        cin >> pl.Birth_date.month;
+
+    } while(pl.Birth_date.month < 1 || pl.Birth_date.month > 12); // to ensure that the user enters a valid month 
+	
+    int maxDay = daysInMonth(pl.Birth_date.month); // get the maximum days in a certain month
+    do 
+    {
+        cout << "Day --> ";
+        cin >> pl.Birth_date.day;
+
+    } while(pl.Birth_date.day < 1 || pl.Birth_date.day > maxDay); // to ensure that the user enters a valid day depending on the month
+
+    cin.ignore() ;
+
+	cout << "Player Nationality : " ;
+	getline(cin , pl.Nationality) ;
+}
+
+void AddTeam(Team &tm)
+{
+	cout << "Enter Team ID : " ;
+	cin >> tm.ID ;
+    cin.ignore() ;
+
+	cout << "Enter Team Name : " ;
+	getline(cin , tm.Name) ;
+    cout << endl ;
+
+    // Add each player's info. in the team
+	for(int i = 0 ; i < MAX_Players ; i++)
+	{
+		cout << "Enter Player #" << i+1 << " info. " << endl ; // "Enter Player #1 info."
+		AddPlayer( tm.Players[i] ) ;
+        cout << endl ;
+	}
+}

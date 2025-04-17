@@ -11,8 +11,13 @@ void sign_up() {
 	cout << "Username: ";
 	cin >> username;
 	cout << "Password: ";
-	password = _getch();
-	cout << "*";
+	char ch = _getch(); // Hide password input
+	while (ch != 13) { // Enter key is pressed
+		password.push_back(ch);
+		cout << "*";
+		ch = _getch();
+	}
+	cout << endl << password;
 }
 
 bool log_in(string username, string password) {

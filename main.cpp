@@ -1,5 +1,4 @@
 #include <iostream>
-#include <fstream>
 #include <string>
 
 using namespace std;
@@ -10,7 +9,7 @@ string username ;
 string password ;
 };
 
-user users = [MAX_USERS];
+user users[MAX_USERS];
 int usercount = 0;
 
 void sign_up (){
@@ -19,7 +18,7 @@ void sign_up (){
     cin >> username;
 
 
-    for (int i = 0; i < userCount; i++) {
+    for (int i = 0; i < usercount; i++) {
         if (users[i].username == username) {
             cout << "Username already exists!\n";
             return;
@@ -29,9 +28,9 @@ void sign_up (){
     cout << "Enter new password: ";
     cin >> password;
 
-    users[userCount].username = username;
-    users[userCount].password = password;
-    userCount++;
+    users[usercount].username = username;
+    users[usercount].password = password;
+    usercount++;
 
     cout << "Sign up successful!\n";
 }

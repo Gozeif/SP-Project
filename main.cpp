@@ -38,6 +38,7 @@ void sign_up (){
 int main() {
 
 
+sign_up ();
 
 
 
@@ -47,6 +48,5 @@ int main() {
 
 
 
-
-	return 0
+	return 0;
 }

@@ -21,13 +21,17 @@ void load_user_db() {
 		cout << "Error: Unable to open credentials file." << endl;
 	}
 
-	string temp_user_str;
+	string temp_user_arr[100];
 	for (int i = 0; i < 100 && credentials.good(); i++) {
-		getline(credentials, temp_user_str, '\n');
-		if (temp_user_str.empty()) {
+		getline(credentials, temp_user_arr[i], '\n');
+		if (temp_user_arr[i].empty()) {
 			break;
 		}
-		stringstream ss(temp_user_str);
+		else if (temp_user_arr[i][0] == '[')
+		{
+			continue;
+		}
+		stringstream ss(temp_user_arr[i]);
 		for (int j = 0; j < 3; j++) {
 			getline(ss, user_data[i], '@'); // Split username, password and id
 		}
@@ -46,8 +50,8 @@ void sign_up() {
 	do  // Loop until a valid username is entered
 	{
 		cin >> username;
-		if (username.find(',')) {
-			cout << "Username cannot contain commas. Please try again." << endl;
+		if (username.find(',') || username.find('[') || username.find(']')) {
+			cout << "Username cannot contain commas or square brackets. Please try again." << endl;
 			valid_username = false;
 			continue;
 		}

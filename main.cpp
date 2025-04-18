@@ -33,7 +33,7 @@ void load_user_db() {
 		}
 		stringstream ss(temp_user_arr[i]);
 		for (int j = 0; j < 3; j++) {
-			getline(ss, user_data[i], '@'); // Split username, password and id
+			getline(ss, user_data[i], ','); // Split username, password and id
 		}
 
 		// Store the data in the user struct
@@ -50,7 +50,7 @@ void sign_up() {
 	do  // Loop until a valid username is entered
 	{
 		cin >> username;
-		if (username.find(',') || username.find('[') || username.find(']')) {
+		if (username.find(',') != -1 || username.find('[') != -1 || username.find(']') != -1) {
 			cout << "Username cannot contain commas or square brackets. Please try again." << endl;
 			valid_username = false;
 			continue;
@@ -95,18 +95,15 @@ void sign_up() {
 			cout << "Error: User limit reached." << endl;
 			return;
 		}
+	}	 
+	ofstream file("credentials.txt", ios::app); // Open file in append mode
+	if (file.is_open()) {
+		file << username << "," << password << endl;
+		file.close();
 	}
-	//this should be refactored into save()
-	// 
-	// 
-	//ofstream file("credentials.txt", ios::app); // Open file in append mode
-	//if (file.is_open()) {
-	//	file << username << "@" << password << endl;
-	//	file.close();
-	//}
-	//else {
-	//	cout << "Error: Unable to open file." << endl;
-	//}
+	else {
+		cout << "Error: Unable to open file." << endl;
+	}
 }
 
 void log_in() {

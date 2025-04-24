@@ -1,22 +1,22 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <sstream> // For stringstream
-#include <conio.h> // For _getch()
-#include <algorithm> // For transform()
-
+#include <sstream> // For stringstream,  
+#include <conio.h> // For _getch(), hide password input
+#include <algorithm> // For transform(), convert string to uppercase for case-insensitive username comparison
 using namespace std;
 
 fstream credentials;
+
+const int MAX_USERS = 101;
+int save_index = 0; // Int to track what index to save new users to
+
 
 struct user {
 	string username = "";
 	string password = "";
 	int id = 0;
 }current_user_info;
-
-
-const int MAX_USERS = 101;
 user users[MAX_USERS]{};
 
 
@@ -32,11 +32,7 @@ void load_user_db() {
 		if (temp_user_arr[i].empty()) {
 			break;
 		}
-		else if (temp_user_arr[i][0] == '[')
-		{
-			continue;
-		}
-		stringstream ss(temp_user_arr[i]);
+		stringstream ss(temp_user_arr[i]); // Create a stringstream object to parse the line
 		for (int j = 0; j < 3; j++) {
 			getline(ss, user_data[j], ','); // Split username, password and id
 		}
@@ -52,7 +48,9 @@ void load_user_db() {
 			cout << "Assigned new id: " << i+1 << endl;
 			users[i].id = i + 1;
 		}
+		save_index = i + 1; // Update save_index to the first new signup index
 	}
+
 	credentials.close();
 }
 
@@ -120,7 +118,6 @@ void sign_up() {
 		}
 	}
 	cout << "\nPassword accepted." << endl;
-	cout << "Confirm Password: ";
 
 	for (int i = 1; i < MAX_USERS; i++) {
 		if (users[i].username.empty()) {
@@ -201,27 +198,8 @@ void log_out() {
 }
 
 void save() {
-	credentials.open("credentials.txt", ios::out | ios::in);
-	credentials.seekg(0, ios::beg); // Move to the beginning of the file
-	char ch;
-	for (int i = 1; i < MAX_USERS && users[i].id != 0; i++) {
-		do
-		{
-			ch = credentials.get(); // Read character by character
-			credentials.seekg(1, ios::cur);
-		} while (ch != '\n' && not credentials.eof());
-		string line;
-		streampos pos = credentials.tellg();
-		getline(credentials, line);
-		if (line[0] != '[' && line[0] != ']') { // Skip the line if it starts with '[' or ']'
-			credentials.seekp(pos); // Move back to the previous position
-			credentials << users[i].id << "," << users[i].username << "," << users[i].password << endl;
-		}
-		/*if (users[i+1].id == 0) {
-			break;
-		}*/
-		credentials.seekg(pos);
-	}
+	credentials.open("credentials.txt", ios::app);
+	credentials << users[save_index].id << "," << users[save_index].username << "," << users[save_index].password << endl;
 }
 
 int main() {

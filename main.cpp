@@ -7,6 +7,8 @@
 
 using namespace std;
 
+fstream credentials;
+
 struct user {
 	string username = "";
 	string password = "";
@@ -20,7 +22,7 @@ user users[MAX_USERS]{};
 
 void load_user_db() {
 	string user_data[3];
-	ifstream credentials("credentials.txt", ios::app);
+	credentials.open("credentials.txt", ios::in);
 	if (!credentials.is_open()) {
 		cout << "Error: Unable to open credentials file." << endl;
 	}
@@ -51,6 +53,7 @@ void load_user_db() {
 			users[i].id = i + 1;
 		}
 	}
+	credentials.close();
 }
 
 void sign_up() {
@@ -60,8 +63,8 @@ void sign_up() {
 	do  // Loop until a valid username is entered
 	{
 		cin >> username;
-		if (username.find(',') != -1 || username.find('[') != -1 || username.find(']') != -1) {
-			cout << "Username cannot contain commas or square brackets. Please try again." << endl;
+		if (username.find(',') != -1) {
+			cout << "Username cannot contain commas. Please pick a different username." << endl;
 			valid_username = false;
 			continue;
 		}
@@ -83,25 +86,47 @@ void sign_up() {
 		}
 
 	} while (!valid_username);
+	cout << username << endl;
 
-	cout << "Password: ";
-	char ch = _getch(); // Hide password input
-	while (ch != 13) { // Enter key is pressed
-		if (ch == 8) { // Backspace key is pressed
-			password.pop_back();
-			cout << "\b \b"; // Erase the last character
+	bool invalid_password = true;
+	while (invalid_password) {
+		cout << "Password: ";
+		char ch = _getch(); // Hide password input
+		while (ch != 13) { // Enter key is pressed
+			if (ch == 8) { // Backspace key is pressed
+				password.pop_back();
+				cout << "\b \b"; // Erase the last character
+			}
+			else {
+				password.push_back(ch);
+				cout << "*"; // Print asterisk for each character
+			}
+			ch = _getch();
+		}
+		if (password.find(',') != -1) {
+			cout << "\nPassword cannot contain commas. Please pick a different password." << endl;
+			password.clear();
+		}
+		else if (password.length() < 8) {
+			cout << "\nPassword must be at least 8 characters long. Please pick a different password." << endl;
+			password.clear();
+		}
+		else if (password.find(username) != string::npos) {
+			cout << "\nPassword cannot contain the username. Please pick a different password." << endl;
+			password.clear();
 		}
 		else {
-			password.push_back(ch);
-			cout << "*"; // Print asterisk for each character
+			invalid_password = false;
 		}
-		ch = _getch();
 	}
+	cout << "\nPassword accepted." << endl;
+	cout << "Confirm Password: ";
+
 	for (int i = 1; i < MAX_USERS; i++) {
 		if (users[i].username.empty()) {
 			users[i].username = username;
 			users[i].password = password;
-			users[i].id = i+1;
+			users[i].id = i;
 			current_user_info.id = users[i].id;
 			break;
 		}
@@ -176,30 +201,29 @@ void log_out() {
 }
 
 void save() {
-	ofstream ocredentials("credentials.txt", ios::app);
-	ifstream icredentials("credentials.txt", ios::in);
-	icredentials.seekg(0, ios::beg); // Move to the beginning of the file
+	credentials.open("credentials.txt", ios::out | ios::in);
+	credentials.seekg(0, ios::beg); // Move to the beginning of the file
 	char ch;
-	for (int i = 1; i < MAX_USERS; i++) {
+	for (int i = 1; i < MAX_USERS && users[i].id != 0; i++) {
 		do
 		{
-			icredentials.get(ch); // Read character by character
-		} while (ch != '\n');
+			ch = credentials.get(); // Read character by character
+			credentials.seekg(1, ios::cur);
+		} while (ch != '\n' && not credentials.eof());
 		string line;
-		streampos pos = icredentials.tellg();
-		getline(icredentials, line);
-		if (line[0] != '[' && line[0] != ']') {
-			cout << "ran";
-			// Skip the line if it starts with '[' or ']'
-			ocredentials.seekp(pos); // Move back to the previous position
-			ocredentials << users[i].id << "," << users[i].username << "," << users[i].password << endl;
+		streampos pos = credentials.tellg();
+		getline(credentials, line);
+		if (line[0] != '[' && line[0] != ']') { // Skip the line if it starts with '[' or ']'
+			credentials.seekp(pos); // Move back to the previous position
+			credentials << users[i].id << "," << users[i].username << "," << users[i].password << endl;
 		}
 		/*if (users[i+1].id == 0) {
 			break;
 		}*/
-		icredentials.seekg(pos);
+		credentials.seekg(pos);
 	}
 }
+
 int main() {
 	load_user_db();
 	sign_up();

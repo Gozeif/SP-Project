@@ -9,7 +9,7 @@ using namespace std;
 fstream credentials;
 
 const int MAX_USERS = 101;
-int save_index = 0; // Int to track what index to save new users to
+int save_index = 1; // Int to track what index to save new users to
 
 
 struct user {
@@ -27,8 +27,8 @@ void load_user_db() {
 		cout << "Error: Unable to open credentials file." << endl;
 	}
 	string temp_user_arr[MAX_USERS];
-	for (int i = 0; i < MAX_USERS && credentials.good(); i++) {
-		getline(credentials, temp_user_arr[i], '\n');
+	for (int i = 1; i < MAX_USERS && credentials.good(); i++) {
+		getline(credentials, temp_user_arr[i]);
 		if (temp_user_arr[i].empty()) {
 			break;
 		}
@@ -66,7 +66,7 @@ void sign_up() {
 			continue;
 		}
 		// Check if username already exists
-		for (int i = 0; i < MAX_USERS; i++) {
+		for (int i = 1; i < MAX_USERS; i++) {
 			string x = users[i].username;
 			transform(x.begin(), x.end(), x.begin(), ::toupper); // Convert to uppercase for case-insensitive comparison
 			string s = username;
@@ -81,9 +81,7 @@ void sign_up() {
 				valid_username = true;
 			}
 		}
-
 	} while (!valid_username);
-	cout << username << endl;
 
 	bool invalid_password = true;
 	while (invalid_password) {
@@ -91,8 +89,10 @@ void sign_up() {
 		char ch = _getch(); // Hide password input
 		while (ch != 13) { // Enter key is pressed
 			if (ch == 8) { // Backspace key is pressed
-				password.pop_back();
-				cout << "\b \b"; // Erase the last character
+				if (!password.empty()) {
+					password.pop_back();
+					cout << "\b \b"; // Erase the last character
+				}
 			}
 			else {
 				password.push_back(ch);
@@ -123,7 +123,6 @@ void sign_up() {
 			users[i].username = username;
 			users[i].password = password;
 			users[i].id = i;
-			current_user_info.id = users[i].id;
 			break;
 		}
 		else if (i == MAX_USERS - 1) {
@@ -131,8 +130,7 @@ void sign_up() {
 			return;
 		}
 	}
-	current_user_info.username = username;
-	current_user_info.password = password;
+	cout << "New user created: " << username << endl;
 }
 
 void log_in() {
@@ -143,15 +141,24 @@ void log_in() {
 	do	{
 		cin >> username;
 		// Check if username actually exists
-		for (int i = 0; i < MAX_USERS; i++) {
-			if (users[i].username == username) {
-				user_id = users[i].id;
+		for (int i = 1; i < MAX_USERS; i++) {
+			string x = users[i].username;
+			transform(x.begin(), x.end(), x.begin(), ::toupper); // Convert to uppercase for case-insensitive comparison
+			string s = username;
+			transform(s.begin(), s.end(), s.begin(), ::toupper);
+			// Search if the input matches a username in the database
+			if (x == s) {
+				current_user_info.id = users[i].id;
 				valid_username = true;
+				user_id = users[i].id; // Store the index of the found user
 				break;
 			}
 			else
 			{
 				valid_username = false;
+			}
+			if (users[i].username.empty()) {
+				break; // Stop searching if an empty username is found
 			}
 		}
 		if (!valid_username) {
@@ -178,15 +185,13 @@ void log_in() {
 		ch = _getch();
 	}
 	if (users[user_id].password == password) {
-		cout << "\nLogin successful!" << endl;
-		cout << "Welcome, " << users[user_id].username << "!" << endl;
 		current_user_info.username = users[user_id].username;
 		current_user_info.id = users[user_id].id;
-		return;
+		cout << "\nLogin successful!" << endl;
+		cout << "Welcome, " << current_user_info.username << "!" << endl;
 	}
 	else {
 		cout << "\nIncorrect password." << endl;
-		return;
 	}
 }
 
@@ -198,15 +203,22 @@ void log_out() {
 
 void save() {
 	credentials.open("credentials.txt", ios::app);
-	credentials << users[save_index].id << "," << users[save_index].username << "," << users[save_index].password << endl;
+	if (!credentials.is_open()) {
+		cout << "Error: Unable to open credentials file." << endl;
+	}
+	for (int i = 0; i < MAX_USERS; i++) {
+		if (users[save_index + i].id == 0) {
+			break; // Stop saving if an empty username is found
+		}
+		credentials << users[save_index + i].id << "," << users[save_index + i].username << "," << users[save_index + i].password << endl;
+	}
 	credentials.close();
 }
 
 int main() {
 	load_user_db();
 	sign_up();
-	cout << "New user created: " << current_user_info.username << endl;
-	cout << "Log-in: " << current_user_info.username << endl;
+	cout << "Log-in" << endl;
 	log_in();
 	cout << "Current user: " << current_user_info.username << endl;
 	log_out();

@@ -16,15 +16,21 @@ struct user {
 	string username = "";
 	string password = "";
 	int id = 0;
+	bool admin = false;
 }current_user_info;
 user users[MAX_USERS]{};
 
 
 void load_user_db() {
-	string user_data[3];
+	string user_data[4];
 	credentials.open("credentials.txt", ios::in);
 	if (!credentials.is_open()) {
-		cout << "Error: Unable to open credentials file." << endl;
+		// If the file doesn't exist, create it
+		credentials.open("credentials.txt", ios::out);
+		if (!credentials.is_open()) {
+			cout << "Error: Unable to create credentials file." << endl;
+			return;
+		}
 	}
 	string temp_user_arr[MAX_USERS];
 	for (int i = 1; i < MAX_USERS && credentials.good(); i++) {
@@ -33,13 +39,14 @@ void load_user_db() {
 			break;
 		}
 		stringstream ss(temp_user_arr[i]); // Create a stringstream object to parse the line
-		for (int j = 0; j < 3; j++) {
+		for (int j = 0; j < 4; j++) {
 			getline(ss, user_data[j], ','); // Split username, password and id
 		}
 
 		// Store the data in the user struct
 		users[i].username = user_data[1];
 		users[i].password = user_data[2];
+		users[i].admin = (user_data[3] == "1"); // Convert string to bool
 		if (!user_data[0].empty()) {
 			users[i].id = stoi(user_data[0]); // Converts string to int
 		}
@@ -55,6 +62,7 @@ void load_user_db() {
 
 void sign_up() {
 	string username, password;
+	bool admin = false; // Default to non-admin;
 	bool valid_username = true;
 	cout << "Username: ";
 	do  // Loop until a valid username is entered
@@ -118,11 +126,26 @@ void sign_up() {
 	}
 	cout << "\nPassword accepted." << endl;
 
+	cout << "Are you an admin? (y/n)" << endl;
+	char admin_choice;
+	cin >> admin_choice;
+	if (admin_choice == 'y' || admin_choice == 'Y') {
+		admin = true;
+	}
+	else if (admin_choice == 'n' || admin_choice == 'N') {
+		admin = false;
+	}
+	else {
+		cout << "Invalid choice. Defaulting to non-admin." << endl;
+		admin = false;
+	}
+
 	for (int i = 1; i < MAX_USERS; i++) {
 		if (users[i].username.empty()) {
 			users[i].username = username;
 			users[i].password = password;
 			users[i].id = i;
+			users[i].admin = admin;
 			break;
 		}
 		else if (i == MAX_USERS - 1) {
@@ -187,6 +210,7 @@ void log_in() {
 	if (users[user_id].password == password) {
 		current_user_info.username = users[user_id].username;
 		current_user_info.id = users[user_id].id;
+		current_user_info.admin = users[user_id].admin;
 		cout << "\nLogin successful!" << endl;
 		cout << "Welcome, " << current_user_info.username << "!" << endl;
 	}
@@ -199,6 +223,7 @@ void log_out() {
 	cout << "Logging out..." << endl;
 	current_user_info.username = "";
 	current_user_info.id = 0;
+	current_user_info.admin = false;
 }
 
 void save() {
@@ -210,7 +235,7 @@ void save() {
 		if (users[save_index + i].id == 0) {
 			break; // Stop saving if an empty username is found
 		}
-		credentials << users[save_index + i].id << "," << users[save_index + i].username << "," << users[save_index + i].password << endl;
+		credentials << users[save_index + i].id << ',' << users[save_index + i].username << ',' << users[save_index + i].password << ',' << users[save_index + i].admin << endl;
 	}
 	credentials.close();
 }

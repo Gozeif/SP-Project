@@ -1,8 +1,6 @@
 #pragma once
 #ifndef AUTHENTICATION_H
 #define AUTHENTICATION_H
-#pragma once
-#pragma once
 #include <iostream>
 #include <fstream>
 #include <string>

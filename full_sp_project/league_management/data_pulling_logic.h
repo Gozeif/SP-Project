@@ -21,6 +21,22 @@ void pullTeamsCount(int &curTeamsCount){
     return;
 }
 
+void pullMatchesPlayed(int &matchesPlayed){
+    ifstream inputFile("league_management/counts/matches_played.txt"); // Open the file
+
+    if (!inputFile) { // Check if the file opened successfully
+        cout << "Couldn't find file dummy";
+        return ;
+    }
+    string num;
+    getline(inputFile, num);
+    
+    matchesPlayed = stoi(num);
+
+    inputFile.close(); // Close the file
+    return;
+}
+
 
 void pullTeams(League& league){
     // cout << "TEAMS COUNT " << league.teamsCount << endl;

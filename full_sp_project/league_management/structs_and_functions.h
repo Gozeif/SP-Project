@@ -81,6 +81,7 @@ void generateTeams(int stIndex, int& teamsCount, League &league){
         team.name = adjectives[rand()%20] + " " + nouns[rand()%20];
         generatePlayers(0, team, league.playersCount);
         league.teams[team.id]=team;
+        league.table[team.id].team=team;
     }
 }
 
@@ -124,6 +125,7 @@ void AddTeam(League& league)
         }
     }
     league.teams[team.id] = team;
+    league.table[team.id].team = team;
     return;
 
 }
@@ -156,6 +158,12 @@ void generateSchedule(League &league){
             generateTeams(league.teamsCount, league.teamsCount, league);
         }
     }
+    cout << "Enter start date (dd/mm/yyyy): ";
+    string sDate;
+    cin >> sDate;
+    Date startDate = stringToDate(sDate);
+    league.startDate = startDate;
+
     int matchesScheduled=0;
     // using the circle method for generating round robin tournaments schedule
     int circle[2][MAX_TEAMS_IN_LEAGUE/2]={};
@@ -164,20 +172,16 @@ void generateSchedule(League &league){
             circle[i][j] = j + i*(MAX_TEAMS_IN_LEAGUE/2);
         }
     }
+    Date curDate=league.startDate;
     for(int week=1; week<=38; week++){
-        // for(int i=0; i<2; i++){
-        //     for(int j=0; j<MAX_TEAMS_IN_LEAGUE/2; j++){
-        //         cout << circle[i][j] << " ";
-        //     }
-        //     cout << endl;
-        // }
-        // cout << endl;
+
+
         for(int i=0; i<MAX_TEAMS_IN_LEAGUE/2; i++){
             Match match;
             if(week <= 19)
-                match = {matchesScheduled++, league.teams[circle[0][i]], league.teams[circle[1][i]], week, HasNotStarted};
+                match = {matchesScheduled++, league.teams[circle[0][i]], league.teams[circle[1][i]], curDate, {0, 0}};
             else
-                match = {matchesScheduled++, league.teams[circle[1][i]], league.teams[circle[0][i]], week, HasNotStarted};
+                match = {matchesScheduled++, league.teams[circle[1][i]], league.teams[circle[0][i]], curDate, {0, 0}};
             league.matches[match.id] = match;
         }
 
@@ -189,21 +193,58 @@ void generateSchedule(League &league){
         for(int i=0; i<MAX_TEAMS_IN_LEAGUE/2 - 1; i++)
             circle[1][i] = circle[1][i+1];
         circle[1][MAX_TEAMS_IN_LEAGUE/2-1]=temp;
-
+        curDate = getNextWeek(curDate);
     }
     // cout << matchesScheduled << endl;
-    cout << "Enter start date (dd/mm/yyyy): ";
-    string sDate;
-    cin >> sDate;
-    Date startDate = stringToDate(sDate);
-    league.startDate = startDate;
+    
     league.started = true;
     cout << "League started successfully!" << endl;
    
 }
 
-void addMatchResult(int matchId, Result result, League& league){
-    league.matches[matchId].result = result;
+void addMatchResult(League& league){
+    cout << "Current Match: " << endl;
+    Match& match = league.matches[league.matchesPlayed];
+
+    cout << match.team_home.name << " vs " << match.team_away.name << "   " << dateToString(league.startDate) << endl;
+
+
+    cout << "Enter home team goals: ";
+    cin >> match.result.homeGoals;
+    cout << "Enter away team goals: ";
+    cin >> match.result.awayGoals;
+    
+    int homePoints, awayPoints;
+    if(match.result.homeGoals > match.result.awayGoals){
+        homePoints=3;
+        awayPoints=0;
+    }
+    else if(match.result.homeGoals < match.result.awayGoals){
+        homePoints=0;
+        awayPoints=3;
+    }
+    else{
+        homePoints=1;
+        awayPoints=1;
+    }
+
+    league.table[match.team_home.id].points += homePoints;
+    league.table[match.team_away.id].points += awayPoints;
+    league.table[match.team_away.id].matchesPlayed++;
+    league.table[match.team_home.id].matchesPlayed++;
+    league.matchesPlayed++;
+    cout << "Result added successfully!" << endl;
+
+}
+
+void viewMatchResult(Match match)
+{
+	//cout << "the week :" << matches[b].week << "\n";
+
+    cout << "Date: " << dateToString(match.date) << endl;
+	cout << match.team_home.name << "   " << match.result.homeGoals<< " " << '-' << " " << match.result.awayGoals << "   " << match.team_away.name << endl;
+
+
 }
 
 // we want to make a function that

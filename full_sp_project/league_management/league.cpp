@@ -30,22 +30,29 @@ struct Team
 	Player players[MAX_PLAYERS];
 };
 
-enum Result{
-    HasNotStarted,
-    Home,
-    Away,
-    Draw,
+struct Result{
+    int homeGoals, awayGoals;
 };
+
 
 struct Match {
     int id;
     Team team_home;
     Team team_away;
-    int week;
+    Date date;
     Result result;
 };
 
 // Team instance that is in a league
+
+
+struct TableRecord
+{
+	int matchesPlayed=0, points=0;
+    // goal difference
+    // etc.
+    Team team;
+};
 
 
 
@@ -55,9 +62,11 @@ struct League {
     bool started=false;
     int teamsCount=0;
     int playersCount=0;
+    int matchesPlayed=0;
     Date startDate;
     Team teams[MAX_TEAMS_IN_LEAGUE];
     Match matches[MAX_MATCHES];
+    TableRecord table[MAX_TEAMS_IN_LEAGUE];
 };
 
 

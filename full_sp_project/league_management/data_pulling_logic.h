@@ -71,6 +71,7 @@ void pullTeams(League& league){
             league.teams[i].players[j].birthDate.year = stoi(birthDateYear);
             league.teams[i].players[j].nationality = playerNationality;
         }
+        league.table[i].team = league.teams[i];
     }
 }
 

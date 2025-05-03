@@ -24,7 +24,7 @@ void pushMatches(League& league){
     }
     for(int match=0; match<MAX_MATCHES; match++){
         // NEED TO ADD RESULT AS WELL
-        file << league.matches[match].team_home.id << " " << league.matches[match].team_away.id << '\n';
+        file << league.matches[match].team_home.id << "  " << league.matches[match].team_away.id << '\n';
     }
 }
 

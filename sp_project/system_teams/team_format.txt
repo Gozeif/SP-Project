@@ -1,8 +1,0 @@
-id
-name
-playerId 
-name 
-birthdate day
-birthdate month
-birthdate year
-nationality

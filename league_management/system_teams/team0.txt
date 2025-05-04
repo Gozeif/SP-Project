@@ -1,0 +1,206 @@
+0
+Dancing Lions
+0
+Karim Mustafa
+2
+8
+20
+Morocco
+1
+Omar Rami
+3
+8
+6
+Turkey
+2
+Zayd Khalid
+25
+7
+26
+Saudi Arabia
+3
+Samir Hasan
+20
+10
+18
+Lebanon
+4
+Khalid Youssef
+16
+8
+6
+China
+5
+Fadi Youssef
+18
+4
+11
+Saudi Arabia
+6
+Youssef Hasan
+2
+10
+10
+Turkey
+7
+Mustafa Tarek
+7
+9
+21
+Lebanon
+8
+Zayd Bilal
+8
+9
+9
+Nigeria
+9
+Ali Youssef
+9
+2
+7
+Germany
+10
+Nabil Tarek
+25
+6
+26
+Kenya
+11
+Mustafa Bilal
+13
+4
+19
+Germany
+12
+Nabil Idris
+19
+9
+7
+Lebanon
+13
+Samir Nabil
+13
+3
+24
+France
+14
+Hasan Khalid
+23
+8
+16
+America
+15
+Samir Zain
+8
+5
+17
+India
+16
+Anas Idris
+12
+11
+21
+Spain
+17
+Omar Nabil
+22
+3
+7
+Morocco
+18
+Zain Jamal
+26
+9
+9
+Brazil
+19
+Rami Hadi
+21
+12
+5
+Kenya
+20
+Mustafa Hasan
+18
+12
+4
+Russia
+21
+Nabil Rami
+12
+5
+15
+Nigeria
+22
+Hadi Zayd
+23
+12
+6
+France
+23
+Hasan Samir
+5
+6
+22
+Turkey
+24
+Samir Ali
+25
+12
+23
+Kenya
+25
+Khalid Zain
+19
+2
+12
+Mexico
+26
+Karim Omar
+12
+5
+9
+Japan
+27
+Ali Omar
+22
+5
+18
+France
+28
+Idris Tarek
+4
+9
+16
+Mexico
+29
+Hadi Nabil
+4
+5
+5
+Mexico
+30
+Samir Mustafa
+24
+12
+4
+Brazil
+31
+Karim Fadi
+22
+2
+22
+Nigeria
+32
+Samir Fadi
+20
+4
+7
+Kenya
+33
+Tarek Zain
+12
+8
+27
+Spain

@@ -1,0 +1,206 @@
+8
+Jumping Hunters
+272
+Tarek Youssef
+24
+12
+4
+Mexico
+273
+Bilal Hasan
+16
+10
+12
+Brazil
+274
+Khalid Bilal
+20
+2
+5
+Pakistan
+275
+Rami Tarek
+7
+4
+4
+Mexico
+276
+Hasan Ahmad
+24
+8
+16
+Saudi Arabia
+277
+Anas Bilal
+6
+9
+27
+Mexico
+278
+Fadi Hasan
+25
+3
+7
+France
+279
+Mustafa Nabil
+13
+8
+26
+Russia
+280
+Ali Bilal
+14
+1
+16
+Kenya
+281
+Ali Khalid
+21
+12
+11
+Kenya
+282
+Youssef Karim
+1
+9
+22
+Russia
+283
+Zayd Anas
+26
+5
+2
+America
+284
+Ahmad Jamal
+14
+5
+25
+Egypt
+285
+Omar Ahmad
+27
+6
+11
+Italy
+286
+Samir Fadi
+22
+3
+18
+Spain
+287
+Khalid Ahmad
+18
+5
+2
+Saudi Arabia
+288
+Khalid Nabil
+3
+5
+14
+Russia
+289
+Khalid Bilal
+21
+3
+8
+Russia
+290
+Ahmad Fadi
+1
+1
+11
+Nigeria
+291
+Nabil Khalid
+23
+6
+1
+Brazil
+292
+Rami Khalid
+1
+5
+13
+America
+293
+Rami Jamal
+20
+12
+23
+India
+294
+Anas Idris
+10
+11
+18
+Brazil
+295
+Hasan Fadi
+10
+7
+23
+China
+296
+Karim Tarek
+14
+11
+12
+Mexico
+297
+Khalid Khalid
+9
+9
+3
+China
+298
+Jamal Jamal
+9
+12
+3
+Spain
+299
+Idris Hadi
+10
+3
+23
+Lebanon
+300
+Zayd Ahmad
+3
+2
+5
+Germany
+301
+Omar Samir
+17
+2
+18
+America
+302
+Zayd Jamal
+13
+2
+14
+Saudi Arabia
+303
+Ali Nabil
+17
+4
+3
+Japan
+304
+Zayd Omar
+27
+7
+6
+Lebanon
+305
+Hadi Omar
+26
+8
+12
+India

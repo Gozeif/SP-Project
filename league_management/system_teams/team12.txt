@@ -1,0 +1,206 @@
+12
+Phantom Dragons
+408
+Ali Khalid
+15
+3
+21
+South Korea
+409
+Khalid Karim
+23
+11
+19
+Nigeria
+410
+Bilal Karim
+22
+3
+12
+America
+411
+Omar Ahmad
+23
+5
+15
+Spain
+412
+Hasan Khalid
+17
+11
+19
+Germany
+413
+Tarek Hadi
+13
+12
+24
+China
+414
+Zayd Ahmad
+2
+4
+3
+Pakistan
+415
+Zain Tarek
+1
+10
+1
+Spain
+416
+Youssef Omar
+12
+9
+19
+India
+417
+Youssef Fadi
+19
+3
+26
+Turkey
+418
+Omar Samir
+12
+9
+25
+India
+419
+Zain Fadi
+2
+8
+26
+Pakistan
+420
+Tarek Youssef
+15
+11
+15
+Morocco
+421
+Hasan Ahmad
+23
+8
+17
+France
+422
+Rami Rami
+7
+4
+1
+China
+423
+Jamal Ali
+8
+7
+9
+Turkey
+424
+Fadi Jamal
+13
+10
+20
+Russia
+425
+Karim Khalid
+8
+10
+2
+South Korea
+426
+Rami Rami
+1
+8
+13
+Mexico
+427
+Youssef Ahmad
+1
+11
+23
+Saudi Arabia
+428
+Tarek Rami
+5
+5
+20
+Japan
+429
+Idris Tarek
+27
+1
+22
+Morocco
+430
+Nabil Nabil
+8
+4
+24
+Kenya
+431
+Idris Samir
+27
+1
+27
+Russia
+432
+Ali Anas
+14
+4
+20
+China
+433
+Mustafa Samir
+15
+9
+25
+Japan
+434
+Fadi Rami
+12
+12
+17
+Italy
+435
+Rami Hasan
+3
+12
+10
+Mexico
+436
+Samir Tarek
+27
+11
+12
+Saudi Arabia
+437
+Nabil Omar
+27
+7
+14
+India
+438
+Anas Hadi
+1
+8
+15
+Spain
+439
+Samir Jamal
+21
+4
+8
+Lebanon
+440
+Anas Idris
+4
+9
+11
+Morocco
+441
+Zayd Tarek
+17
+3
+9
+Kenya

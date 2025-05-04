@@ -1,0 +1,206 @@
+5
+Frozen Champions
+170
+Samir Anas
+16
+9
+16
+Saudi Arabia
+171
+Omar Ali
+23
+1
+17
+Mexico
+172
+Mustafa Rami
+22
+12
+5
+Morocco
+173
+Zayd Ahmad
+27
+4
+10
+Kenya
+174
+Idris Jamal
+1
+4
+22
+Brazil
+175
+Fadi Jamal
+10
+5
+3
+Saudi Arabia
+176
+Ahmad Tarek
+18
+11
+27
+Pakistan
+177
+Zayd Zayd
+16
+4
+20
+Russia
+178
+Omar Jamal
+14
+7
+21
+Kenya
+179
+Bilal Hasan
+13
+4
+14
+Russia
+180
+Bilal Mustafa
+10
+3
+25
+Russia
+181
+Bilal Karim
+5
+9
+2
+Nigeria
+182
+Zayd Khalid
+4
+11
+18
+America
+183
+Omar Hadi
+6
+3
+2
+Lebanon
+184
+Idris Ahmad
+8
+5
+8
+France
+185
+Anas Anas
+6
+5
+16
+Spain
+186
+Zain Hasan
+20
+12
+19
+Egypt
+187
+Zain Tarek
+26
+4
+22
+Mexico
+188
+Jamal Nabil
+1
+6
+19
+Japan
+189
+Youssef Hasan
+23
+12
+2
+Saudi Arabia
+190
+Mustafa Khalid
+8
+5
+14
+South Korea
+191
+Hadi Youssef
+2
+10
+22
+Spain
+192
+Bilal Omar
+19
+3
+10
+Nigeria
+193
+Samir Hadi
+22
+3
+25
+Turkey
+194
+Ahmad Fadi
+15
+5
+26
+America
+195
+Youssef Omar
+7
+5
+12
+Egypt
+196
+Ahmad Rami
+5
+8
+24
+South Korea
+197
+Hasan Bilal
+7
+9
+18
+Lebanon
+198
+Hasan Bilal
+19
+11
+22
+Italy
+199
+Hasan Rami
+9
+4
+25
+Turkey
+200
+Samir Tarek
+23
+7
+3
+Morocco
+201
+Ali Rami
+18
+7
+27
+Egypt
+202
+Anas Nabil
+23
+6
+21
+Mexico
+203
+Tarek Anas
+19
+11
+23
+Russia

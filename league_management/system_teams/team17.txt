@@ -1,0 +1,206 @@
+17
+Mighty Hunters
+578
+Bilal Mustafa
+12
+12
+18
+Morocco
+579
+Khalid Karim
+22
+5
+25
+Morocco
+580
+Youssef Anas
+19
+7
+13
+Turkey
+581
+Rami Zain
+6
+1
+13
+Kenya
+582
+Omar Karim
+15
+8
+10
+Egypt
+583
+Jamal Khalid
+9
+4
+7
+Saudi Arabia
+584
+Anas Hasan
+12
+1
+10
+France
+585
+Ali Zain
+16
+12
+27
+Germany
+586
+Jamal Youssef
+15
+12
+22
+Saudi Arabia
+587
+Zain Tarek
+2
+7
+26
+Morocco
+588
+Anas Rami
+5
+2
+15
+Italy
+589
+Youssef Hadi
+7
+10
+2
+South Korea
+590
+Hasan Omar
+13
+5
+19
+Saudi Arabia
+591
+Ahmad Zayd
+10
+1
+27
+Spain
+592
+Ahmad Mustafa
+23
+3
+3
+Lebanon
+593
+Zain Ali
+19
+7
+20
+Morocco
+594
+Hasan Idris
+15
+9
+22
+Brazil
+595
+Bilal Ali
+1
+3
+22
+Lebanon
+596
+Jamal Zayd
+19
+12
+20
+South Korea
+597
+Omar Hadi
+6
+9
+24
+Saudi Arabia
+598
+Ali Youssef
+13
+9
+12
+Kenya
+599
+Karim Rami
+1
+8
+6
+America
+600
+Rami Tarek
+19
+1
+10
+America
+601
+Fadi Ali
+5
+5
+10
+Saudi Arabia
+602
+Hasan Youssef
+23
+4
+9
+Lebanon
+603
+Mustafa Nabil
+13
+12
+6
+Brazil
+604
+Khalid Omar
+25
+2
+16
+Saudi Arabia
+605
+Khalid Zayd
+6
+9
+9
+South Korea
+606
+Zayd Jamal
+12
+1
+16
+America
+607
+Jamal Jamal
+16
+3
+5
+Spain
+608
+Khalid Jamal
+13
+2
+2
+China
+609
+Samir Fadi
+6
+8
+27
+Russia
+610
+Anas Khalid
+19
+5
+21
+India
+611
+Karim Hadi
+13
+9
+1
+China

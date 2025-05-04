@@ -1,0 +1,206 @@
+18
+Burning Eagles
+612
+Samir Karim
+7
+12
+1
+Egypt
+613
+Nabil Idris
+13
+2
+20
+Lebanon
+614
+Fadi Omar
+14
+12
+2
+America
+615
+Zain Zayd
+14
+7
+15
+Spain
+616
+Idris Hadi
+4
+10
+8
+Japan
+617
+Hasan Hadi
+5
+4
+3
+Turkey
+618
+Mustafa Ali
+27
+7
+12
+Italy
+619
+Jamal Bilal
+18
+11
+20
+Mexico
+620
+Bilal Khalid
+28
+9
+18
+Kenya
+621
+Rami Zayd
+4
+6
+11
+Mexico
+622
+Karim Mustafa
+4
+11
+15
+South Korea
+623
+Bilal Mustafa
+11
+5
+7
+Germany
+624
+Samir Karim
+14
+2
+19
+Saudi Arabia
+625
+Idris Zain
+10
+4
+3
+South Korea
+626
+Zain Zain
+7
+4
+14
+Japan
+627
+Karim Youssef
+16
+2
+18
+Germany
+628
+Hasan Karim
+23
+10
+25
+India
+629
+Youssef Fadi
+27
+8
+21
+Nigeria
+630
+Khalid Khalid
+28
+2
+4
+Kenya
+631
+Idris Zayd
+15
+1
+14
+France
+632
+Ahmad Jamal
+24
+8
+5
+Germany
+633
+Tarek Tarek
+25
+12
+24
+Russia
+634
+Tarek Omar
+10
+8
+15
+South Korea
+635
+Nabil Omar
+1
+5
+11
+Mexico
+636
+Youssef Ali
+6
+9
+8
+Egypt
+637
+Ali Jamal
+4
+12
+1
+Morocco
+638
+Zayd Zain
+26
+9
+14
+Egypt
+639
+Idris Hasan
+12
+6
+18
+Mexico
+640
+Youssef Ali
+8
+7
+3
+Italy
+641
+Hadi Bilal
+11
+4
+2
+Japan
+642
+Mustafa Zayd
+20
+10
+11
+Morocco
+643
+Rami Bilal
+19
+7
+26
+Mexico
+644
+Mustafa Hadi
+14
+10
+22
+Turkey
+645
+Ahmad Samir
+22
+8
+24
+Japan

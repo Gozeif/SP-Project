@@ -1,0 +1,206 @@
+16
+Running Strikers
+544
+Anas Omar
+3
+2
+6
+Saudi Arabia
+545
+Mustafa Fadi
+6
+11
+6
+France
+546
+Hadi Bilal
+12
+12
+9
+Germany
+547
+Hadi Rami
+21
+2
+1
+Brazil
+548
+Anas Anas
+9
+8
+10
+Mexico
+549
+Ali Tarek
+23
+12
+18
+America
+550
+Zayd Hasan
+26
+2
+16
+Russia
+551
+Bilal Omar
+17
+6
+2
+Turkey
+552
+Ali Zayd
+5
+7
+9
+Lebanon
+553
+Idris Karim
+26
+1
+6
+Spain
+554
+Omar Karim
+14
+10
+27
+South Korea
+555
+Ahmad Rami
+8
+4
+15
+Saudi Arabia
+556
+Fadi Zayd
+18
+3
+16
+China
+557
+Hadi Rami
+17
+7
+24
+Italy
+558
+Nabil Zain
+18
+10
+3
+Spain
+559
+Fadi Zain
+9
+6
+17
+Saudi Arabia
+560
+Rami Zayd
+1
+2
+14
+Germany
+561
+Zayd Rami
+9
+8
+23
+Russia
+562
+Zayd Hadi
+14
+7
+24
+Germany
+563
+Samir Rami
+13
+8
+13
+Saudi Arabia
+564
+Zayd Omar
+3
+2
+24
+Pakistan
+565
+Rami Ali
+5
+11
+12
+Saudi Arabia
+566
+Jamal Tarek
+24
+9
+6
+America
+567
+Jamal Nabil
+7
+5
+8
+Egypt
+568
+Tarek Hadi
+16
+7
+24
+Brazil
+569
+Samir Fadi
+12
+1
+23
+China
+570
+Jamal Hasan
+24
+8
+26
+India
+571
+Zayd Khalid
+19
+7
+12
+South Korea
+572
+Fadi Ali
+14
+10
+19
+France
+573
+Zain Jamal
+21
+4
+1
+Russia
+574
+Samir Rami
+28
+9
+18
+South Korea
+575
+Karim Hasan
+26
+7
+26
+Morocco
+576
+Ali Ahmad
+27
+11
+17
+Brazil
+577
+Hasan Nabil
+16
+10
+7
+Kenya

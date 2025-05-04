@@ -1,0 +1,206 @@
+9
+Electric Warriors
+306
+Hadi Anas
+17
+11
+8
+Morocco
+307
+Omar Samir
+18
+8
+9
+South Korea
+308
+Fadi Rami
+9
+8
+20
+Lebanon
+309
+Jamal Hadi
+5
+7
+6
+Nigeria
+310
+Khalid Nabil
+25
+11
+2
+Germany
+311
+Ahmad Samir
+11
+9
+12
+Italy
+312
+Khalid Hadi
+14
+7
+8
+Lebanon
+313
+Khalid Hasan
+5
+5
+18
+Spain
+314
+Jamal Youssef
+27
+11
+8
+Germany
+315
+Idris Samir
+25
+1
+23
+China
+316
+Tarek Hadi
+7
+8
+10
+South Korea
+317
+Youssef Karim
+17
+5
+10
+India
+318
+Ahmad Ali
+6
+4
+14
+Saudi Arabia
+319
+Idris Rami
+21
+5
+26
+China
+320
+Samir Mustafa
+9
+6
+11
+America
+321
+Idris Anas
+26
+7
+22
+China
+322
+Rami Khalid
+17
+4
+25
+France
+323
+Anas Bilal
+21
+3
+2
+Saudi Arabia
+324
+Jamal Ali
+3
+3
+2
+Egypt
+325
+Omar Omar
+20
+2
+20
+America
+326
+Youssef Ali
+12
+4
+19
+Kenya
+327
+Anas Omar
+19
+6
+19
+Russia
+328
+Hasan Omar
+19
+11
+8
+South Korea
+329
+Zain Zayd
+14
+6
+11
+Nigeria
+330
+Nabil Zain
+15
+12
+20
+Saudi Arabia
+331
+Anas Ahmad
+15
+12
+12
+India
+332
+Nabil Samir
+10
+11
+13
+Russia
+333
+Mustafa Bilal
+11
+8
+25
+Morocco
+334
+Idris Zain
+17
+2
+8
+Pakistan
+335
+Hasan Ali
+11
+9
+21
+Mexico
+336
+Youssef Hadi
+7
+4
+11
+Saudi Arabia
+337
+Rami Idris
+12
+12
+1
+Mexico
+338
+Ahmad Hasan
+25
+6
+12
+Japan
+339
+Zain Omar
+19
+2
+16
+Kenya

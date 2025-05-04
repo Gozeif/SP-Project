@@ -1,0 +1,206 @@
+15
+Iron Titans
+510
+Ali Nabil
+9
+5
+9
+America
+511
+Ahmad Idris
+3
+12
+3
+Turkey
+512
+Khalid Anas
+12
+4
+17
+Morocco
+513
+Idris Zayd
+18
+2
+4
+China
+514
+Nabil Samir
+28
+5
+13
+Pakistan
+515
+Rami Zayd
+9
+3
+22
+Saudi Arabia
+516
+Karim Fadi
+26
+5
+23
+America
+517
+Fadi Nabil
+20
+3
+27
+Japan
+518
+Karim Ali
+23
+5
+2
+South Korea
+519
+Hadi Youssef
+2
+10
+8
+Italy
+520
+Anas Khalid
+17
+8
+27
+Spain
+521
+Nabil Nabil
+10
+9
+3
+Morocco
+522
+Idris Samir
+11
+9
+8
+Turkey
+523
+Zayd Zain
+28
+12
+13
+Morocco
+524
+Samir Samir
+18
+2
+20
+Lebanon
+525
+Jamal Jamal
+26
+2
+27
+Spain
+526
+Khalid Hasan
+26
+9
+3
+France
+527
+Jamal Rami
+23
+8
+22
+India
+528
+Tarek Khalid
+17
+7
+12
+Turkey
+529
+Tarek Idris
+4
+8
+2
+Kenya
+530
+Idris Bilal
+14
+3
+25
+South Korea
+531
+Zayd Jamal
+17
+10
+5
+Mexico
+532
+Khalid Hadi
+8
+8
+4
+Egypt
+533
+Youssef Bilal
+25
+10
+1
+Italy
+534
+Fadi Zain
+16
+9
+3
+Nigeria
+535
+Youssef Mustafa
+20
+3
+7
+Pakistan
+536
+Ahmad Nabil
+21
+4
+2
+India
+537
+Fadi Khalid
+3
+11
+12
+Kenya
+538
+Ali Youssef
+20
+3
+14
+Italy
+539
+Zain Omar
+18
+2
+26
+India
+540
+Omar Fadi
+5
+10
+13
+Japan
+541
+Hasan Anas
+9
+12
+25
+Kenya
+542
+Bilal Mustafa
+24
+12
+2
+Saudi Arabia
+543
+Zayd Jamal
+23
+8
+24
+Germany

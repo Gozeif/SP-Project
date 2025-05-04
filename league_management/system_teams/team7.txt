@@ -1,0 +1,206 @@
+7
+Mighty Phantoms
+238
+Zayd Bilal
+13
+4
+26
+Kenya
+239
+Ali Hasan
+24
+5
+5
+India
+240
+Hadi Youssef
+16
+4
+18
+Italy
+241
+Hasan Tarek
+10
+4
+17
+Nigeria
+242
+Nabil Samir
+23
+12
+24
+Brazil
+243
+Samir Khalid
+12
+4
+1
+Spain
+244
+Idris Samir
+21
+9
+20
+India
+245
+Jamal Fadi
+8
+7
+9
+Lebanon
+246
+Anas Hadi
+15
+7
+11
+Germany
+247
+Fadi Jamal
+22
+7
+7
+Japan
+248
+Jamal Nabil
+9
+3
+25
+Turkey
+249
+Ahmad Mustafa
+6
+10
+3
+Egypt
+250
+Hasan Karim
+16
+11
+6
+Pakistan
+251
+Zayd Omar
+11
+4
+10
+France
+252
+Mustafa Samir
+20
+6
+11
+America
+253
+Idris Omar
+2
+10
+15
+South Korea
+254
+Rami Samir
+26
+6
+20
+Pakistan
+255
+Idris Zain
+26
+4
+6
+India
+256
+Zayd Ali
+17
+1
+20
+Kenya
+257
+Rami Jamal
+23
+8
+10
+Nigeria
+258
+Zain Samir
+16
+10
+18
+America
+259
+Zayd Youssef
+14
+4
+14
+Japan
+260
+Zain Mustafa
+16
+3
+2
+America
+261
+Zayd Ahmad
+11
+2
+12
+Turkey
+262
+Zayd Idris
+21
+6
+17
+Egypt
+263
+Youssef Zayd
+13
+7
+23
+Lebanon
+264
+Rami Idris
+9
+12
+12
+Saudi Arabia
+265
+Youssef Tarek
+26
+8
+4
+Brazil
+266
+Mustafa Khalid
+28
+10
+26
+Brazil
+267
+Samir Ahmad
+4
+5
+22
+Nigeria
+268
+Samir Tarek
+12
+5
+25
+China
+269
+Zain Ali
+16
+7
+7
+America
+270
+Nabil Karim
+27
+9
+8
+Lebanon
+271
+Bilal Bilal
+4
+5
+5
+Nigeria

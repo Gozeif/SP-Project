@@ -1,0 +1,206 @@
+1
+Rising Storms
+34
+Fadi Tarek
+1
+1
+7
+South Korea
+35
+Zain Mustafa
+1
+4
+25
+Egypt
+36
+Anas Ali
+25
+6
+11
+Lebanon
+37
+Anas Hadi
+23
+11
+13
+China
+38
+Tarek Youssef
+6
+4
+19
+France
+39
+Hasan Samir
+23
+1
+15
+Egypt
+40
+Samir Zayd
+13
+11
+9
+Lebanon
+41
+Omar Hadi
+2
+7
+17
+Germany
+42
+Zain Ahmad
+17
+7
+16
+Germany
+43
+Zain Samir
+3
+3
+6
+South Korea
+44
+Tarek Youssef
+17
+1
+18
+Turkey
+45
+Ali Anas
+25
+12
+16
+Mexico
+46
+Ali Omar
+26
+3
+8
+Egypt
+47
+Omar Anas
+20
+5
+22
+Nigeria
+48
+Samir Bilal
+27
+8
+3
+India
+49
+Ahmad Tarek
+27
+9
+19
+China
+50
+Nabil Zain
+26
+1
+5
+Spain
+51
+Jamal Nabil
+9
+5
+13
+Kenya
+52
+Ali Zain
+23
+12
+22
+Brazil
+53
+Jamal Bilal
+26
+8
+9
+Turkey
+54
+Tarek Omar
+24
+8
+3
+Italy
+55
+Samir Hadi
+16
+3
+22
+Spain
+56
+Tarek Ahmad
+3
+6
+27
+Brazil
+57
+Tarek Ali
+13
+1
+27
+Lebanon
+58
+Hadi Hadi
+3
+8
+8
+China
+59
+Bilal Fadi
+3
+3
+22
+Lebanon
+60
+Omar Rami
+12
+5
+4
+Russia
+61
+Tarek Idris
+24
+6
+16
+Saudi Arabia
+62
+Karim Ali
+17
+11
+18
+France
+63
+Hadi Bilal
+18
+8
+3
+Nigeria
+64
+Idris Omar
+27
+4
+14
+China
+65
+Zayd Youssef
+5
+2
+13
+Japan
+66
+Rami Samir
+9
+1
+7
+Spain
+67
+Samir Zain
+18
+9
+25
+Nigeria

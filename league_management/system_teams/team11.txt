@@ -1,0 +1,206 @@
+11
+Running Rangers
+374
+Zain Youssef
+25
+1
+15
+Saudi Arabia
+375
+Ali Fadi
+17
+7
+23
+Russia
+376
+Tarek Idris
+13
+11
+16
+Germany
+377
+Anas Bilal
+4
+12
+12
+France
+378
+Zain Anas
+16
+1
+25
+Lebanon
+379
+Zayd Rami
+3
+11
+11
+Germany
+380
+Jamal Fadi
+5
+3
+21
+Germany
+381
+Tarek Bilal
+3
+10
+11
+Italy
+382
+Ahmad Fadi
+3
+2
+18
+Spain
+383
+Anas Bilal
+24
+1
+3
+Lebanon
+384
+Tarek Youssef
+5
+1
+15
+China
+385
+Hadi Zayd
+3
+7
+17
+France
+386
+Mustafa Hasan
+10
+2
+17
+Japan
+387
+Rami Jamal
+5
+8
+7
+Japan
+388
+Zain Omar
+8
+1
+10
+China
+389
+Khalid Hasan
+19
+8
+2
+Germany
+390
+Omar Idris
+15
+1
+9
+South Korea
+391
+Hasan Rami
+3
+3
+9
+South Korea
+392
+Mustafa Fadi
+23
+11
+18
+Japan
+393
+Omar Zayd
+17
+6
+12
+Germany
+394
+Bilal Anas
+25
+11
+12
+Egypt
+395
+Ali Karim
+2
+10
+12
+France
+396
+Jamal Zayd
+20
+6
+10
+America
+397
+Ahmad Ali
+26
+5
+6
+Kenya
+398
+Mustafa Zain
+15
+10
+15
+France
+399
+Idris Fadi
+26
+3
+16
+Pakistan
+400
+Anas Omar
+13
+3
+3
+Turkey
+401
+Zayd Khalid
+24
+7
+26
+Germany
+402
+Omar Ali
+10
+8
+6
+Japan
+403
+Zayd Jamal
+26
+12
+20
+Egypt
+404
+Rami Anas
+2
+6
+16
+Nigeria
+405
+Ahmad Karim
+9
+12
+20
+France
+406
+Idris Hasan
+8
+3
+26
+China
+407
+Nabil Jamal
+9
+6
+20
+Germany

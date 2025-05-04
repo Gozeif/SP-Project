@@ -1,0 +1,206 @@
+3
+Frozen Dragons
+102
+Hasan Idris
+8
+8
+19
+Brazil
+103
+Ahmad Mustafa
+23
+3
+27
+Germany
+104
+Zain Omar
+25
+11
+4
+Turkey
+105
+Tarek Zain
+27
+5
+13
+Brazil
+106
+Youssef Ali
+21
+4
+16
+Germany
+107
+Tarek Zain
+17
+4
+18
+Turkey
+108
+Tarek Mustafa
+12
+4
+15
+Lebanon
+109
+Ahmad Zain
+27
+6
+16
+Kenya
+110
+Hasan Tarek
+26
+3
+26
+Russia
+111
+Idris Karim
+22
+5
+13
+Spain
+112
+Youssef Hadi
+11
+11
+27
+Lebanon
+113
+Idris Bilal
+7
+2
+16
+Nigeria
+114
+Idris Khalid
+3
+10
+9
+South Korea
+115
+Karim Youssef
+1
+4
+21
+Morocco
+116
+Mustafa Idris
+19
+12
+11
+Mexico
+117
+Khalid Bilal
+2
+9
+4
+Mexico
+118
+Fadi Ali
+10
+1
+12
+Russia
+119
+Fadi Ali
+27
+1
+24
+Brazil
+120
+Hadi Bilal
+10
+10
+25
+Mexico
+121
+Ali Hadi
+25
+12
+25
+India
+122
+Anas Karim
+6
+9
+20
+India
+123
+Mustafa Khalid
+21
+10
+20
+America
+124
+Karim Zain
+23
+7
+1
+China
+125
+Zain Jamal
+20
+10
+15
+France
+126
+Nabil Jamal
+11
+5
+22
+Morocco
+127
+Ali Fadi
+20
+12
+7
+Lebanon
+128
+Idris Bilal
+16
+7
+25
+France
+129
+Karim Youssef
+17
+5
+26
+Egypt
+130
+Zayd Fadi
+25
+11
+2
+China
+131
+Khalid Youssef
+2
+5
+5
+France
+132
+Youssef Jamal
+11
+4
+19
+South Korea
+133
+Nabil Hadi
+8
+9
+19
+Spain
+134
+Khalid Omar
+26
+6
+12
+Turkey
+135
+Zayd Samir
+14
+1
+4
+Japan

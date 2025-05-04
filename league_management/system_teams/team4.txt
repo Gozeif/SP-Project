@@ -1,0 +1,206 @@
+4
+Electric Strikers
+136
+Zain Hasan
+3
+12
+25
+Mexico
+137
+Anas Rami
+19
+7
+26
+France
+138
+Anas Rami
+25
+11
+6
+Nigeria
+139
+Idris Omar
+15
+6
+1
+Italy
+140
+Khalid Nabil
+12
+12
+24
+China
+141
+Karim Omar
+27
+8
+27
+Pakistan
+142
+Hasan Ali
+14
+10
+9
+Brazil
+143
+Khalid Omar
+25
+6
+27
+Brazil
+144
+Karim Nabil
+21
+10
+20
+China
+145
+Hasan Jamal
+6
+5
+22
+Brazil
+146
+Karim Zayd
+26
+9
+7
+Turkey
+147
+Mustafa Youssef
+28
+5
+23
+South Korea
+148
+Nabil Rami
+17
+3
+16
+India
+149
+Ahmad Khalid
+19
+4
+26
+India
+150
+Ali Hadi
+23
+4
+7
+Saudi Arabia
+151
+Ahmad Zain
+13
+10
+22
+Turkey
+152
+Ali Hadi
+5
+1
+21
+Egypt
+153
+Samir Mustafa
+15
+10
+7
+Russia
+154
+Hadi Samir
+4
+11
+22
+Nigeria
+155
+Youssef Samir
+24
+11
+25
+South Korea
+156
+Zayd Nabil
+26
+8
+19
+Kenya
+157
+Samir Ali
+16
+3
+13
+Lebanon
+158
+Mustafa Bilal
+27
+1
+8
+Morocco
+159
+Nabil Hasan
+26
+12
+13
+India
+160
+Mustafa Jamal
+2
+8
+25
+Spain
+161
+Karim Tarek
+9
+6
+8
+Japan
+162
+Samir Idris
+9
+6
+26
+South Korea
+163
+Jamal Karim
+19
+2
+15
+Germany
+164
+Khalid Mustafa
+21
+8
+25
+Brazil
+165
+Idris Bilal
+8
+11
+25
+Turkey
+166
+Mustafa Hadi
+23
+6
+12
+Morocco
+167
+Zain Omar
+17
+11
+24
+China
+168
+Mustafa Anas
+19
+6
+22
+India
+169
+Tarek Hasan
+15
+8
+11
+Morocco

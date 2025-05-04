@@ -1,0 +1,206 @@
+19
+Rising Titans
+646
+Omar Hadi
+20
+7
+5
+Kenya
+647
+Jamal Anas
+23
+5
+19
+Egypt
+648
+Nabil Rami
+23
+3
+4
+Egypt
+649
+Samir Khalid
+13
+10
+13
+Brazil
+650
+Omar Hadi
+25
+1
+25
+Egypt
+651
+Nabil Jamal
+5
+4
+17
+India
+652
+Rami Tarek
+15
+7
+1
+Italy
+653
+Ali Rami
+16
+4
+22
+India
+654
+Ahmad Hasan
+7
+4
+12
+China
+655
+Khalid Tarek
+4
+2
+16
+Saudi Arabia
+656
+Nabil Jamal
+12
+6
+6
+Germany
+657
+Fadi Khalid
+15
+2
+23
+Italy
+658
+Bilal Omar
+26
+9
+5
+South Korea
+659
+Jamal Idris
+18
+9
+13
+Russia
+660
+Jamal Youssef
+3
+2
+2
+Germany
+661
+Bilal Zayd
+21
+6
+6
+Spain
+662
+Hadi Fadi
+9
+1
+12
+Morocco
+663
+Jamal Khalid
+22
+5
+22
+Spain
+664
+Zayd Youssef
+27
+12
+17
+Lebanon
+665
+Rami Fadi
+23
+9
+25
+Russia
+666
+Tarek Hadi
+1
+6
+7
+Turkey
+667
+Zain Nabil
+9
+12
+23
+Russia
+668
+Zain Nabil
+12
+10
+13
+Mexico
+669
+Karim Karim
+14
+3
+16
+Saudi Arabia
+670
+Mustafa Jamal
+18
+7
+5
+Russia
+671
+Khalid Omar
+13
+6
+26
+Lebanon
+672
+Ahmad Ahmad
+19
+2
+2
+Mexico
+673
+Karim Tarek
+9
+1
+24
+Nigeria
+674
+Nabil Nabil
+25
+6
+8
+Pakistan
+675
+Omar Bilal
+8
+11
+15
+Brazil
+676
+Samir Mustafa
+25
+6
+26
+Japan
+677
+Ali Khalid
+25
+11
+8
+Saudi Arabia
+678
+Tarek Hadi
+20
+2
+19
+Russia
+679
+Nabil Ali
+15
+11
+24
+Morocco

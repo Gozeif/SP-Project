@@ -1,0 +1,206 @@
+14
+Iron Storms
+476
+Rami Rami
+18
+12
+26
+Nigeria
+477
+Fadi Ali
+2
+5
+8
+Turkey
+478
+Zayd Tarek
+5
+4
+15
+Saudi Arabia
+479
+Nabil Jamal
+7
+4
+22
+South Korea
+480
+Bilal Tarek
+16
+9
+15
+South Korea
+481
+Karim Karim
+15
+1
+23
+Italy
+482
+Mustafa Bilal
+6
+12
+5
+Morocco
+483
+Mustafa Ali
+19
+7
+13
+Italy
+484
+Tarek Hasan
+3
+2
+1
+Morocco
+485
+Samir Fadi
+26
+2
+12
+Mexico
+486
+Nabil Ali
+24
+9
+14
+India
+487
+Bilal Anas
+12
+5
+13
+Kenya
+488
+Idris Samir
+27
+12
+21
+Italy
+489
+Ahmad Fadi
+4
+9
+10
+Russia
+490
+Tarek Rami
+28
+3
+10
+Russia
+491
+Samir Youssef
+4
+10
+27
+China
+492
+Ahmad Nabil
+24
+11
+11
+Mexico
+493
+Mustafa Hasan
+27
+11
+8
+Italy
+494
+Idris Mustafa
+24
+5
+9
+Morocco
+495
+Hasan Nabil
+21
+3
+27
+Pakistan
+496
+Jamal Fadi
+23
+6
+2
+China
+497
+Jamal Nabil
+7
+4
+15
+Mexico
+498
+Fadi Zayd
+9
+9
+27
+Japan
+499
+Hadi Khalid
+3
+3
+12
+France
+500
+Hadi Nabil
+21
+4
+9
+India
+501
+Mustafa Rami
+19
+4
+20
+Egypt
+502
+Ali Fadi
+4
+9
+23
+Brazil
+503
+Hasan Karim
+8
+12
+3
+Turkey
+504
+Khalid Khalid
+1
+6
+17
+India
+505
+Hadi Youssef
+16
+3
+14
+Lebanon
+506
+Youssef Samir
+9
+11
+15
+Lebanon
+507
+Karim Omar
+13
+9
+22
+South Korea
+508
+Karim Omar
+6
+10
+15
+Kenya
+509
+Fadi Tarek
+9
+6
+6
+Lebanon

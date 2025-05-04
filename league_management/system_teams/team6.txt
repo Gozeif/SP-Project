@@ -1,0 +1,206 @@
+6
+Shining Giants
+204
+Omar Zayd
+28
+3
+22
+Italy
+205
+Nabil Youssef
+2
+12
+16
+China
+206
+Tarek Idris
+21
+8
+13
+Egypt
+207
+Bilal Fadi
+25
+2
+21
+France
+208
+Anas Bilal
+23
+8
+18
+Russia
+209
+Bilal Nabil
+10
+3
+12
+China
+210
+Youssef Mustafa
+14
+7
+27
+America
+211
+Hasan Tarek
+18
+6
+11
+Saudi Arabia
+212
+Omar Jamal
+11
+2
+6
+Turkey
+213
+Samir Omar
+11
+4
+22
+Germany
+214
+Nabil Youssef
+16
+4
+8
+India
+215
+Zayd Bilal
+9
+7
+6
+India
+216
+Jamal Nabil
+6
+9
+14
+America
+217
+Zayd Ahmad
+11
+7
+12
+South Korea
+218
+Tarek Bilal
+10
+9
+6
+South Korea
+219
+Hadi Rami
+5
+9
+2
+Germany
+220
+Youssef Karim
+24
+12
+23
+Turkey
+221
+Zain Omar
+9
+12
+11
+Germany
+222
+Jamal Khalid
+24
+10
+1
+India
+223
+Jamal Fadi
+23
+5
+3
+Nigeria
+224
+Zayd Bilal
+24
+11
+6
+Japan
+225
+Omar Karim
+15
+12
+18
+Egypt
+226
+Ali Fadi
+12
+11
+3
+Mexico
+227
+Mustafa Samir
+1
+12
+21
+Egypt
+228
+Hadi Fadi
+24
+9
+2
+Morocco
+229
+Idris Zayd
+15
+2
+2
+Morocco
+230
+Jamal Hadi
+27
+12
+21
+Egypt
+231
+Omar Khalid
+18
+3
+2
+Turkey
+232
+Tarek Idris
+13
+7
+8
+Pakistan
+233
+Mustafa Bilal
+24
+9
+2
+Morocco
+234
+Zain Jamal
+4
+3
+23
+Russia
+235
+Fadi Karim
+12
+10
+16
+Lebanon
+236
+Ahmad Zain
+5
+6
+7
+America
+237
+Rami Jamal
+5
+5
+18
+Egypt

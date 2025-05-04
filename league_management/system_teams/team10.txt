@@ -1,0 +1,206 @@
+10
+Burning Waves
+340
+Youssef Jamal
+6
+3
+16
+China
+341
+Khalid Mustafa
+26
+11
+3
+Russia
+342
+Zayd Ahmad
+4
+12
+21
+China
+343
+Rami Samir
+8
+9
+17
+Nigeria
+344
+Khalid Zain
+27
+11
+21
+Pakistan
+345
+Zain Anas
+1
+9
+22
+Kenya
+346
+Ahmad Fadi
+5
+4
+20
+Russia
+347
+Ali Karim
+2
+3
+19
+China
+348
+Fadi Samir
+25
+12
+13
+Nigeria
+349
+Idris Tarek
+10
+4
+20
+Germany
+350
+Zain Mustafa
+15
+11
+9
+Germany
+351
+Ali Karim
+22
+1
+7
+Italy
+352
+Zain Nabil
+15
+2
+17
+America
+353
+Youssef Khalid
+15
+8
+15
+Saudi Arabia
+354
+Fadi Bilal
+19
+3
+9
+Italy
+355
+Nabil Anas
+4
+2
+18
+Italy
+356
+Ahmad Fadi
+26
+8
+9
+Mexico
+357
+Jamal Khalid
+8
+6
+19
+China
+358
+Samir Bilal
+21
+4
+24
+Lebanon
+359
+Omar Anas
+14
+2
+18
+Lebanon
+360
+Idris Rami
+6
+9
+18
+China
+361
+Zayd Tarek
+20
+2
+10
+Italy
+362
+Mustafa Tarek
+20
+9
+18
+France
+363
+Khalid Fadi
+18
+7
+2
+Brazil
+364
+Hadi Hadi
+23
+3
+9
+Kenya
+365
+Nabil Zain
+28
+11
+7
+Egypt
+366
+Ahmad Ahmad
+27
+4
+9
+Japan
+367
+Ali Karim
+2
+3
+27
+Italy
+368
+Tarek Khalid
+19
+1
+9
+Japan
+369
+Karim Omar
+2
+8
+15
+Mexico
+370
+Ali Tarek
+16
+8
+9
+Russia
+371
+Samir Nabil
+24
+10
+10
+America
+372
+Hasan Rami
+19
+7
+12
+America
+373
+Tarek Omar
+9
+8
+14
+Russia

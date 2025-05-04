@@ -1,0 +1,206 @@
+2
+Golden Hunters
+68
+Idris Ali
+12
+7
+18
+Kenya
+69
+Zayd Ahmad
+5
+6
+3
+Lebanon
+70
+Bilal Khalid
+28
+6
+15
+Morocco
+71
+Hadi Zayd
+25
+5
+26
+Japan
+72
+Rami Mustafa
+17
+1
+18
+Brazil
+73
+Tarek Ahmad
+17
+8
+15
+Japan
+74
+Youssef Zain
+15
+10
+26
+Egypt
+75
+Youssef Anas
+13
+4
+12
+Brazil
+76
+Fadi Nabil
+20
+12
+15
+Pakistan
+77
+Jamal Anas
+8
+4
+4
+Kenya
+78
+Tarek Rami
+22
+2
+3
+Russia
+79
+Ahmad Mustafa
+3
+12
+18
+Kenya
+80
+Samir Nabil
+13
+12
+12
+France
+81
+Ali Rami
+11
+9
+25
+Kenya
+82
+Jamal Zayd
+22
+7
+22
+South Korea
+83
+Omar Khalid
+2
+10
+7
+Germany
+84
+Nabil Zain
+10
+7
+25
+India
+85
+Mustafa Tarek
+19
+9
+1
+Spain
+86
+Zayd Jamal
+13
+7
+25
+Pakistan
+87
+Jamal Zain
+27
+2
+1
+Lebanon
+88
+Ali Nabil
+28
+1
+21
+Nigeria
+89
+Nabil Mustafa
+25
+11
+7
+Russia
+90
+Ali Jamal
+17
+4
+6
+Kenya
+91
+Idris Rami
+24
+6
+24
+Nigeria
+92
+Samir Nabil
+7
+11
+26
+France
+93
+Mustafa Zain
+11
+5
+2
+South Korea
+94
+Anas Hadi
+26
+7
+27
+Egypt
+95
+Fadi Bilal
+26
+6
+10
+Egypt
+96
+Fadi Nabil
+26
+11
+10
+Kenya
+97
+Anas Ahmad
+3
+11
+12
+Japan
+98
+Bilal Idris
+6
+2
+10
+Spain
+99
+Anas Ali
+14
+8
+24
+Egypt
+100
+Idris Youssef
+10
+8
+7
+China
+101
+Ali Youssef
+9
+8
+12
+Russia

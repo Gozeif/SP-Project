@@ -1,0 +1,206 @@
+13
+Dancing Guardians
+442
+Zain Samir
+14
+4
+16
+India
+443
+Fadi Fadi
+26
+3
+4
+Brazil
+444
+Samir Zayd
+25
+3
+3
+Pakistan
+445
+Youssef Idris
+4
+1
+27
+Russia
+446
+Idris Karim
+22
+9
+23
+Italy
+447
+Tarek Zayd
+12
+12
+9
+South Korea
+448
+Youssef Bilal
+21
+12
+10
+Japan
+449
+Zayd Zain
+26
+10
+19
+Turkey
+450
+Nabil Khalid
+6
+11
+13
+Russia
+451
+Ali Mustafa
+23
+11
+27
+South Korea
+452
+Mustafa Bilal
+22
+9
+7
+South Korea
+453
+Fadi Zayd
+4
+11
+11
+Turkey
+454
+Rami Zayd
+26
+8
+4
+Lebanon
+455
+Youssef Karim
+2
+1
+1
+Nigeria
+456
+Idris Jamal
+20
+7
+7
+Pakistan
+457
+Zayd Khalid
+24
+2
+17
+Turkey
+458
+Jamal Idris
+26
+2
+9
+China
+459
+Hadi Tarek
+17
+6
+19
+China
+460
+Nabil Tarek
+25
+6
+17
+Brazil
+461
+Samir Zayd
+20
+11
+21
+Turkey
+462
+Rami Zain
+14
+8
+13
+America
+463
+Jamal Youssef
+21
+1
+3
+Egypt
+464
+Omar Zayd
+21
+11
+14
+Morocco
+465
+Hasan Bilal
+13
+2
+9
+Japan
+466
+Hasan Ali
+1
+2
+6
+Pakistan
+467
+Omar Mustafa
+20
+7
+26
+China
+468
+Zayd Idris
+23
+4
+15
+France
+469
+Hadi Youssef
+14
+7
+15
+France
+470
+Ahmad Idris
+12
+7
+10
+America
+471
+Ahmad Idris
+4
+7
+7
+Japan
+472
+Anas Zain
+6
+5
+6
+Germany
+473
+Samir Idris
+12
+5
+22
+China
+474
+Rami Tarek
+4
+11
+10
+India
+475
+Mustafa Zayd
+24
+11
+25
+Kenya

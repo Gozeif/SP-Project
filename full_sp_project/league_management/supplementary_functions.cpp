@@ -34,4 +34,32 @@ Date stringToDate(string s){
     };
 }
 
+string dateToString(Date date){
+    string res = "";
+    string day = to_string(date.day);
+    string month = to_string(date.month);
+    string year = to_string(date.year);
+    if(day.size() == 1) day.insert(day.begin(), '0');
+    if(month.size() == 1) month.insert(month.begin(), '0');
+    res = day + '/' + month + '/' + year;
+    return res;
+}
 
+
+Date getNextWeek(Date date){
+    date.day += 7;
+    if(date.day > daysInMonth(date.month)){
+        date.day -= daysInMonth(date.month);
+        date.month++;
+        if(date.month > 12){
+            date.month -= 12;
+            date.year++;
+        }
+    }
+    return date;
+}
+
+bool cmp(TableRecord Record1, TableRecord Record2)
+{
+	return (Record1.points > Record2.points);
+}

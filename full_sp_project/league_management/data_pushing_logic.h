@@ -23,7 +23,8 @@ void pushMatches(League& league){
         return;
     }
     for(int match=0; match<MAX_MATCHES; match++){
-        file << league.matches[match].team_home.id << " " << league.matches[match].team_away.id << '\n';
+        // NEED TO ADD RESULT AS WELL
+        file << league.matches[match].team_home.id << "  " << league.matches[match].team_away.id << '\n';
     }
 }
 
@@ -38,6 +39,17 @@ void pushTeamsCount(int &teamsCount){
     file << teamsCount;
 }
 
+
+void pushMatchesPlayed(int &matchesPlayed){
+    string path="league_management/counts/matches_played.txt";
+    std::fstream file(path, std::ios::in | std::ios::out | std::ios::trunc);
+    if(!file){
+        cout << "Couldn't open file";
+        return;
+    }
+    file << matchesPlayed;
+
+}
 
 void pushTeam(Team tm){
     string path="league_management/system_teams/team" + to_string(tm.id) + ".txt";

@@ -1,0 +1,28 @@
+#pragma once
+#include <stack>
+
+using namespace std;
+
+enum Page {
+    VIEW_MATCH_STATISTICS,
+    AUTHENTICATION_PAGE,
+    LOGIN_PAGE,
+    SIGNUP_PAGE,
+    ADD_MATCH_RESULT,
+    VIEW_SCHEDULE,
+    VIEW_TEAMS,
+    VIEW_TEAM_INFO,
+    VIEW_PLAYER_INFO,
+    VIEW_TABLE,
+    ADD_TEAM_PAGE,
+    ADMIN_MENU_LEAGUE_NOT_STARTED,
+    ADMIN_MENU_LEAGUE_STARTED,
+    USER_MENU_LEAGUE_STARTED,
+    USER_MENU_LEAGUE_NOT_STARTED,
+    VIEW_LAST_10_RESULTS,
+    MAIN_MENU,
+    EXIT
+};
+
+stack<Page> stck;
+

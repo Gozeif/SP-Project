@@ -1,0 +1,208 @@
+14
+Golden Waves
+1
+0
+476
+Ali Mustafa
+28
+9
+2004
+India
+477
+Omar Mustafa
+7
+8
+1991
+Mexico
+478
+Khalid Jamal
+22
+12
+1986
+Lebanon
+479
+Rami Fadi
+16
+1
+1984
+South Korea
+480
+Idris Mustafa
+28
+2
+2003
+Italy
+481
+Bilal Samir
+22
+6
+2006
+Egypt
+482
+Zain Rami
+8
+12
+1992
+China
+483
+Mustafa Ali
+10
+4
+2001
+India
+484
+Hasan Nabil
+6
+10
+1993
+Spain
+485
+Nabil Hasan
+20
+9
+1994
+South Korea
+486
+Bilal Hadi
+4
+1
+1986
+Lebanon
+487
+Ahmad Karim
+3
+10
+1989
+India
+488
+Rami Tarek
+4
+9
+1998
+Lebanon
+489
+Anas Fadi
+4
+12
+1982
+Turkey
+490
+Zain Anas
+1
+1
+1985
+Spain
+491
+Bilal Ali
+7
+6
+1984
+Morocco
+492
+Idris Ahmad
+15
+6
+1991
+Kenya
+493
+Samir Hasan
+4
+6
+1998
+Japan
+494
+Bilal Zayd
+2
+3
+1983
+Brazil
+495
+Samir Ahmad
+23
+11
+2005
+Spain
+496
+Mustafa Anas
+20
+11
+2004
+Egypt
+497
+Karim Ahmad
+15
+10
+1989
+South Korea
+498
+Idris Mustafa
+22
+4
+1980
+Nigeria
+499
+Bilal Khalid
+3
+8
+2003
+Pakistan
+500
+Idris Mustafa
+21
+2
+2000
+Russia
+501
+Jamal Mustafa
+13
+6
+1997
+Nigeria
+502
+Ali Zain
+22
+1
+1984
+India
+503
+Ahmad Tarek
+7
+10
+1998
+Nigeria
+504
+Youssef Jamal
+19
+12
+2003
+Pakistan
+505
+Bilal Hadi
+12
+2
+2004
+France
+506
+Karim Khalid
+11
+6
+1980
+Kenya
+507
+Samir Samir
+25
+12
+1996
+Russia
+508
+Bilal Nabil
+17
+3
+1987
+South Korea
+509
+Ahmad Mustafa
+7
+5
+2003
+Spain

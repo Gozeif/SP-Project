@@ -1,0 +1,208 @@
+7
+Screaming Titans
+0
+0
+238
+Fadi Khalid
+17
+2
+1990
+Mexico
+239
+Idris Ahmad
+21
+10
+1984
+Kenya
+240
+Hadi Ahmad
+8
+1
+1987
+Kenya
+241
+Anas Fadi
+4
+2
+1999
+Nigeria
+242
+Mustafa Ahmad
+23
+5
+2006
+China
+243
+Anas Fadi
+7
+6
+2004
+Kenya
+244
+Jamal Tarek
+21
+9
+2002
+Japan
+245
+Khalid Mustafa
+27
+4
+2001
+Pakistan
+246
+Hasan Youssef
+8
+10
+1993
+Lebanon
+247
+Khalid Khalid
+25
+1
+1998
+Brazil
+248
+Bilal Idris
+7
+5
+1996
+Russia
+249
+Anas Tarek
+5
+1
+1998
+Morocco
+250
+Tarek Nabil
+17
+2
+2003
+Lebanon
+251
+Youssef Omar
+22
+8
+1986
+Germany
+252
+Karim Omar
+17
+5
+1998
+Spain
+253
+Fadi Anas
+26
+7
+2001
+Kenya
+254
+Karim Omar
+19
+5
+2004
+Turkey
+255
+Hadi Tarek
+14
+1
+1996
+Egypt
+256
+Idris Rami
+5
+4
+1993
+Nigeria
+257
+Samir Youssef
+24
+7
+1991
+India
+258
+Mustafa Mustafa
+14
+1
+1995
+Mexico
+259
+Jamal Rami
+27
+10
+1999
+Russia
+260
+Mustafa Rami
+5
+1
+2000
+Mexico
+261
+Zayd Nabil
+23
+12
+1997
+Pakistan
+262
+Mustafa Ahmad
+14
+6
+1982
+Brazil
+263
+Fadi Fadi
+23
+5
+2001
+Italy
+264
+Ali Hadi
+16
+2
+1998
+Kenya
+265
+Hadi Bilal
+11
+3
+1987
+Morocco
+266
+Nabil Zain
+19
+11
+1984
+Brazil
+267
+Nabil Hasan
+14
+12
+1983
+Spain
+268
+Nabil Hasan
+17
+11
+1981
+Turkey
+269
+Youssef Rami
+3
+3
+2006
+Japan
+270
+Ahmad Idris
+22
+6
+1981
+Egypt
+271
+Hasan Omar
+19
+12
+2002
+India

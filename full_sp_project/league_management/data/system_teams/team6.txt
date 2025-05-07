@@ -1,0 +1,208 @@
+6
+Iron Strikers
+0
+0
+204
+Idris Khalid
+18
+5
+1988
+Turkey
+205
+Jamal Samir
+19
+4
+1980
+Russia
+206
+Khalid Samir
+28
+11
+2000
+India
+207
+Fadi Anas
+10
+11
+1992
+America
+208
+Jamal Nabil
+4
+9
+1999
+Pakistan
+209
+Omar Nabil
+28
+3
+1989
+Saudi Arabia
+210
+Samir Khalid
+12
+7
+1993
+Saudi Arabia
+211
+Hasan Ahmad
+11
+1
+2003
+Germany
+212
+Zayd Tarek
+22
+10
+1986
+Pakistan
+213
+Samir Mustafa
+17
+8
+1992
+Egypt
+214
+Nabil Samir
+27
+8
+1985
+Morocco
+215
+Nabil Khalid
+13
+2
+1984
+Germany
+216
+Mustafa Fadi
+12
+2
+1990
+Lebanon
+217
+Hasan Samir
+19
+10
+1994
+Pakistan
+218
+Omar Rami
+26
+12
+1981
+Nigeria
+219
+Jamal Idris
+1
+7
+1987
+China
+220
+Mustafa Mustafa
+11
+7
+1980
+Brazil
+221
+Khalid Ali
+26
+8
+2002
+Russia
+222
+Nabil Rami
+3
+3
+2001
+Spain
+223
+Nabil Zayd
+19
+9
+1988
+Spain
+224
+Ahmad Bilal
+24
+11
+1995
+Lebanon
+225
+Samir Jamal
+11
+10
+1989
+Egypt
+226
+Hadi Nabil
+19
+10
+2003
+Lebanon
+227
+Fadi Idris
+11
+10
+1988
+Saudi Arabia
+228
+Fadi Nabil
+2
+8
+2000
+Russia
+229
+Zayd Zayd
+22
+9
+1999
+Japan
+230
+Jamal Samir
+2
+9
+1996
+Russia
+231
+Anas Ali
+22
+5
+1994
+Japan
+232
+Rami Jamal
+25
+3
+2000
+Morocco
+233
+Jamal Nabil
+16
+9
+2004
+South Korea
+234
+Rami Khalid
+8
+10
+1980
+America
+235
+Samir Jamal
+4
+4
+1992
+Nigeria
+236
+Ahmad Hasan
+3
+7
+2000
+Turkey
+237
+Fadi Ahmad
+24
+1
+1999
+Italy

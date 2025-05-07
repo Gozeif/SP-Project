@@ -1,0 +1,208 @@
+10
+Golden Champions
+1
+1
+340
+Mustafa Anas
+14
+4
+1989
+Russia
+341
+Omar Ahmad
+2
+1
+1983
+America
+342
+Nabil Karim
+17
+7
+2005
+Lebanon
+343
+Omar Zain
+20
+2
+1989
+Pakistan
+344
+Hasan Jamal
+10
+8
+1988
+Turkey
+345
+Bilal Bilal
+12
+2
+1990
+Germany
+346
+Anas Zain
+16
+8
+1994
+Spain
+347
+Anas Khalid
+4
+10
+2003
+India
+348
+Fadi Youssef
+21
+6
+1998
+Spain
+349
+Khalid Hasan
+8
+7
+1994
+Kenya
+350
+Nabil Youssef
+7
+2
+2002
+India
+351
+Mustafa Hasan
+18
+1
+1981
+Lebanon
+352
+Karim Youssef
+7
+7
+1985
+China
+353
+Rami Ahmad
+22
+3
+1997
+China
+354
+Zayd Karim
+9
+3
+1992
+Mexico
+355
+Nabil Hadi
+2
+12
+1993
+China
+356
+Nabil Khalid
+11
+2
+1980
+Egypt
+357
+Khalid Zayd
+5
+4
+1984
+Saudi Arabia
+358
+Nabil Fadi
+1
+10
+1982
+China
+359
+Karim Anas
+1
+8
+1993
+France
+360
+Khalid Hasan
+1
+4
+2005
+Turkey
+361
+Hasan Jamal
+12
+6
+2000
+China
+362
+Ahmad Rami
+7
+7
+2001
+South Korea
+363
+Bilal Bilal
+19
+12
+2005
+Nigeria
+364
+Hasan Youssef
+12
+7
+1997
+Brazil
+365
+Nabil Fadi
+1
+11
+2000
+China
+366
+Ali Khalid
+7
+5
+2001
+Russia
+367
+Samir Karim
+14
+3
+1980
+Turkey
+368
+Fadi Samir
+11
+2
+1999
+Italy
+369
+Hadi Rami
+13
+6
+1986
+Lebanon
+370
+Hadi Omar
+26
+1
+1992
+Egypt
+371
+Rami Youssef
+3
+2
+1996
+Pakistan
+372
+Ali Rami
+5
+9
+1988
+Spain
+373
+Khalid Hadi
+9
+10
+1982
+Mexico

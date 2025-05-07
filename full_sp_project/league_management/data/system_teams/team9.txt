@@ -1,0 +1,208 @@
+9
+Dancing Stars
+0
+0
+306
+Bilal Idris
+2
+1
+1987
+Morocco
+307
+Nabil Ahmad
+24
+3
+1990
+Japan
+308
+Samir Omar
+8
+5
+2005
+Kenya
+309
+Zain Jamal
+4
+7
+1994
+China
+310
+Youssef Omar
+13
+9
+1997
+Japan
+311
+Idris Mustafa
+11
+7
+1994
+Turkey
+312
+Karim Rami
+12
+9
+1981
+Turkey
+313
+Hasan Hadi
+14
+6
+1987
+Nigeria
+314
+Rami Bilal
+28
+11
+1989
+Egypt
+315
+Idris Ahmad
+15
+5
+1993
+Kenya
+316
+Tarek Jamal
+10
+3
+2000
+Italy
+317
+Nabil Idris
+23
+1
+2000
+America
+318
+Ali Anas
+25
+3
+1983
+Germany
+319
+Ali Omar
+24
+10
+1986
+Spain
+320
+Zayd Anas
+19
+12
+2004
+Saudi Arabia
+321
+Samir Bilal
+28
+4
+1989
+Lebanon
+322
+Hadi Youssef
+26
+2
+1988
+Italy
+323
+Idris Rami
+24
+6
+1991
+Germany
+324
+Fadi Mustafa
+19
+1
+1981
+Egypt
+325
+Tarek Samir
+18
+12
+1997
+France
+326
+Nabil Omar
+26
+5
+1987
+Egypt
+327
+Khalid Omar
+22
+2
+1986
+Germany
+328
+Karim Ali
+26
+11
+1986
+Mexico
+329
+Karim Karim
+6
+3
+2004
+China
+330
+Idris Samir
+15
+8
+2006
+Spain
+331
+Ali Tarek
+8
+7
+1987
+Egypt
+332
+Fadi Hadi
+25
+2
+1988
+Nigeria
+333
+Idris Khalid
+11
+7
+1999
+Germany
+334
+Zain Hadi
+11
+6
+1994
+Egypt
+335
+Mustafa Karim
+10
+7
+1984
+Japan
+336
+Idris Mustafa
+1
+1
+1986
+Russia
+337
+Omar Idris
+5
+7
+1983
+Russia
+338
+Anas Youssef
+22
+1
+1986
+Turkey
+339
+Khalid Anas
+4
+9
+1994
+Spain

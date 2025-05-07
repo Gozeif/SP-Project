@@ -1,0 +1,208 @@
+8
+Blazing Warriors
+0
+0
+272
+Omar Zain
+10
+12
+1997
+France
+273
+Karim Fadi
+9
+11
+2004
+Spain
+274
+Bilal Idris
+7
+4
+2003
+Japan
+275
+Jamal Bilal
+16
+1
+1980
+Spain
+276
+Omar Ali
+14
+4
+1991
+Egypt
+277
+Bilal Zain
+6
+2
+2000
+Pakistan
+278
+Bilal Ali
+6
+4
+2006
+Lebanon
+279
+Hadi Khalid
+5
+10
+1998
+Morocco
+280
+Omar Zain
+16
+11
+1992
+Germany
+281
+Jamal Jamal
+14
+9
+2006
+Mexico
+282
+Bilal Fadi
+15
+11
+1999
+India
+283
+Zayd Hasan
+9
+6
+2004
+Pakistan
+284
+Samir Rami
+10
+9
+1988
+Spain
+285
+Karim Mustafa
+23
+1
+1995
+India
+286
+Mustafa Samir
+7
+7
+2005
+Germany
+287
+Anas Zayd
+17
+11
+1999
+Nigeria
+288
+Hadi Karim
+11
+5
+1988
+Italy
+289
+Tarek Nabil
+3
+12
+1993
+Italy
+290
+Hasan Idris
+13
+8
+1988
+Nigeria
+291
+Mustafa Hadi
+8
+1
+1994
+India
+292
+Youssef Samir
+10
+9
+1982
+South Korea
+293
+Samir Fadi
+20
+6
+1983
+Brazil
+294
+Tarek Bilal
+12
+10
+1980
+South Korea
+295
+Youssef Omar
+20
+6
+1987
+France
+296
+Karim Tarek
+2
+6
+2002
+Brazil
+297
+Zayd Jamal
+17
+8
+2001
+America
+298
+Samir Ahmad
+20
+10
+1996
+Mexico
+299
+Anas Zain
+13
+1
+2002
+Nigeria
+300
+Khalid Anas
+24
+2
+1998
+Russia
+301
+Idris Hadi
+21
+4
+1983
+Saudi Arabia
+302
+Hadi Karim
+12
+5
+1985
+Saudi Arabia
+303
+Jamal Youssef
+10
+1
+1984
+China
+304
+Youssef Hadi
+25
+1
+2004
+China
+305
+Ahmad Samir
+21
+5
+1993
+Nigeria

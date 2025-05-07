@@ -3,6 +3,7 @@
 #include "structs.cpp"
 #include "navigation.cpp"
 #include "../supplementary/supplementary_functions.cpp"
+#include <ctime>
 
 
 void generateMatchStats(Result& result) {

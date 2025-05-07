@@ -1,0 +1,208 @@
+16
+Shining Stars
+0
+0
+544
+Nabil Fadi
+3
+7
+1992
+Italy
+545
+Idris Bilal
+5
+5
+1995
+Brazil
+546
+Zayd Omar
+6
+2
+1983
+Kenya
+547
+Khalid Karim
+23
+2
+1992
+Italy
+548
+Anas Ahmad
+18
+6
+1986
+America
+549
+Nabil Ahmad
+2
+9
+2001
+South Korea
+550
+Khalid Mustafa
+24
+2
+1981
+Mexico
+551
+Samir Hadi
+15
+9
+1995
+Morocco
+552
+Idris Tarek
+20
+6
+2001
+Italy
+553
+Zayd Zayd
+18
+5
+1985
+Mexico
+554
+Hadi Zayd
+8
+1
+1990
+Italy
+555
+Anas Hasan
+28
+11
+2000
+India
+556
+Nabil Bilal
+22
+5
+1989
+Turkey
+557
+Mustafa Tarek
+26
+5
+2001
+France
+558
+Samir Samir
+14
+1
+1983
+America
+559
+Fadi Tarek
+22
+4
+1987
+Pakistan
+560
+Anas Tarek
+18
+11
+2005
+Egypt
+561
+Hasan Jamal
+26
+7
+2000
+Mexico
+562
+Ali Anas
+18
+12
+1984
+France
+563
+Zayd Jamal
+22
+5
+1994
+South Korea
+564
+Samir Tarek
+8
+9
+2005
+China
+565
+Rami Hasan
+26
+10
+1995
+France
+566
+Khalid Tarek
+16
+4
+2004
+Morocco
+567
+Ali Fadi
+16
+11
+1995
+Pakistan
+568
+Idris Rami
+19
+2
+1992
+Spain
+569
+Bilal Hadi
+7
+4
+2002
+Egypt
+570
+Rami Samir
+17
+6
+2001
+America
+571
+Hasan Zayd
+21
+2
+1983
+South Korea
+572
+Youssef Nabil
+11
+3
+1991
+India
+573
+Rami Zayd
+13
+10
+1992
+Egypt
+574
+Ali Fadi
+26
+5
+1987
+India
+575
+Bilal Ali
+8
+9
+1987
+Egypt
+576
+Hadi Omar
+19
+6
+2004
+Pakistan
+577
+Nabil Hadi
+1
+9
+1986
+South Korea

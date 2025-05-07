@@ -1,0 +1,208 @@
+4
+Shining Tigers
+1
+3
+136
+Youssef Tarek
+12
+10
+2003
+Saudi Arabia
+137
+Jamal Samir
+15
+3
+1990
+Kenya
+138
+Hadi Tarek
+19
+5
+1996
+Nigeria
+139
+Zain Hadi
+9
+6
+1987
+Pakistan
+140
+Jamal Zain
+25
+11
+1996
+Russia
+141
+Hasan Karim
+3
+10
+1998
+Mexico
+142
+Zayd Mustafa
+7
+7
+1999
+Pakistan
+143
+Bilal Bilal
+25
+1
+2002
+China
+144
+Idris Bilal
+8
+3
+1985
+Saudi Arabia
+145
+Tarek Samir
+26
+2
+1981
+Japan
+146
+Ahmad Ahmad
+11
+11
+2000
+Russia
+147
+Tarek Omar
+4
+5
+2004
+Kenya
+148
+Omar Youssef
+14
+1
+1993
+Nigeria
+149
+Ahmad Idris
+27
+12
+2004
+Kenya
+150
+Anas Fadi
+25
+12
+2002
+Egypt
+151
+Omar Hadi
+17
+9
+1995
+Nigeria
+152
+Rami Fadi
+11
+11
+1982
+Lebanon
+153
+Idris Omar
+21
+2
+1997
+Nigeria
+154
+Rami Karim
+18
+10
+1984
+America
+155
+Tarek Hasan
+26
+4
+1992
+Russia
+156
+Anas Ali
+1
+9
+1982
+Pakistan
+157
+Ali Hadi
+13
+7
+1990
+Russia
+158
+Omar Hasan
+28
+12
+1999
+Spain
+159
+Samir Bilal
+10
+1
+1993
+Kenya
+160
+Samir Bilal
+6
+11
+2002
+Egypt
+161
+Tarek Samir
+27
+1
+2002
+Germany
+162
+Hasan Idris
+22
+8
+1997
+Russia
+163
+Hadi Samir
+17
+6
+1983
+Spain
+164
+Bilal Rami
+11
+9
+1998
+Kenya
+165
+Samir Nabil
+24
+5
+1998
+Germany
+166
+Zain Zayd
+13
+7
+1999
+Italy
+167
+Tarek Omar
+25
+11
+1980
+China
+168
+Tarek Omar
+22
+4
+1981
+Nigeria
+169
+Omar Tarek
+14
+11
+1999
+Mexico

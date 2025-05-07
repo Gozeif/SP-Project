@@ -1,0 +1,208 @@
+18
+Mighty Giants
+0
+0
+612
+Hadi Idris
+4
+11
+1997
+Morocco
+613
+Karim Anas
+13
+10
+1992
+Spain
+614
+Nabil Bilal
+5
+9
+1992
+Brazil
+615
+Ali Ali
+19
+8
+2002
+Egypt
+616
+Tarek Zayd
+5
+6
+1996
+Nigeria
+617
+Hasan Rami
+9
+2
+1987
+America
+618
+Hadi Ali
+18
+7
+1998
+India
+619
+Samir Rami
+10
+10
+1991
+America
+620
+Ali Zain
+13
+8
+2004
+Saudi Arabia
+621
+Ahmad Tarek
+20
+1
+1987
+America
+622
+Tarek Ali
+20
+11
+2002
+Lebanon
+623
+Zayd Hadi
+17
+1
+2004
+India
+624
+Fadi Mustafa
+4
+3
+1987
+Mexico
+625
+Jamal Ali
+3
+5
+1987
+Lebanon
+626
+Nabil Nabil
+3
+11
+1994
+China
+627
+Zayd Anas
+28
+7
+2005
+Lebanon
+628
+Anas Zayd
+25
+11
+2001
+Brazil
+629
+Zain Jamal
+1
+2
+1988
+Spain
+630
+Tarek Jamal
+14
+5
+1982
+Egypt
+631
+Omar Zain
+16
+12
+1997
+Lebanon
+632
+Anas Jamal
+27
+12
+1984
+France
+633
+Mustafa Nabil
+24
+2
+2005
+Mexico
+634
+Anas Youssef
+9
+6
+1989
+Pakistan
+635
+Fadi Rami
+9
+6
+1981
+France
+636
+Youssef Fadi
+6
+3
+2000
+Germany
+637
+Omar Zain
+12
+12
+2006
+Mexico
+638
+Youssef Bilal
+9
+1
+1983
+Turkey
+639
+Bilal Rami
+4
+8
+1986
+Egypt
+640
+Fadi Tarek
+17
+5
+2004
+Brazil
+641
+Bilal Idris
+20
+7
+1981
+Russia
+642
+Omar Youssef
+5
+6
+2006
+Germany
+643
+Fadi Hasan
+11
+4
+1996
+Italy
+644
+Youssef Tarek
+4
+10
+1986
+France
+645
+Samir Idris
+26
+5
+2005
+Pakistan

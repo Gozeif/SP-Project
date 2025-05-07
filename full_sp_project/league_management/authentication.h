@@ -2,6 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <conio.h> // For getch()
 #include <sstream> // For stringstream,  
 #include <algorithm> // For transform(), convert string to uppercase for case-insensitive username comparison
 using namespace std;
@@ -94,7 +95,20 @@ void sign_up() {
 	bool invalid_password = true;
 	while (invalid_password) {
 		cout << "Password: ";
-		cin >> password;
+		char ch = _getch(); // Hide password input
+		while (ch != 13) { // Enter key is pressed
+			if (ch == 8) { // Backspace key is pressed
+				if (!password.empty()) {
+					password.pop_back();
+					cout << "\b \b"; // Erase the last character
+				}
+			}
+			else {
+				password.push_back(ch);
+				cout << "*"; // Print asterisk for each character
+			}
+			ch = _getch();
+		}
 		if (password.find(',') != -1) {
 			cout << "\nPassword cannot contain commas. Please pick a different password." << endl;
 			password.clear();

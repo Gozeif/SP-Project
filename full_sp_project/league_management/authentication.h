@@ -178,7 +178,23 @@ void log_in() {
 
 	while(true){
 		cout << "Password: ";
-		cin >> password;
+		char ch = _getch(); // Hide password input
+
+		while (ch == 13) { // Enter key is pressed
+			cout << endl << "Please enter your password." << endl;
+			ch = _getch();
+		}
+		while (ch != 13) {
+			if (ch == 8) { // Backspace key is pressed
+				password.pop_back();
+				cout << "\b \b"; // Erase the last character
+			}
+			else {
+				password.push_back(ch);
+				cout << "*"; // Print asterisk for each character
+			}
+			ch = _getch();
+		}
 		if (users[user_id].password == password) {
 			current_user_info.username = users[user_id].username;
 			current_user_info.id = users[user_id].id;

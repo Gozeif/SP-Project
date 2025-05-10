@@ -1,0 +1,208 @@
+10
+Golden Stars
+1
+0
+340
+Zain Omar
+19
+2
+1995
+Kenya
+341
+Zain Samir
+13
+11
+1990
+China
+342
+Youssef Bilal
+10
+8
+1993
+Lebanon
+343
+Karim Hasan
+9
+7
+2001
+Italy
+344
+Youssef Rami
+5
+6
+1994
+Japan
+345
+Bilal Rami
+25
+12
+1985
+Lebanon
+346
+Idris Tarek
+20
+9
+1983
+France
+347
+Rami Hasan
+3
+1
+1982
+Turkey
+348
+Karim Ali
+8
+3
+1981
+India
+349
+Youssef Ali
+1
+7
+1991
+Turkey
+350
+Bilal Fadi
+13
+11
+1990
+Mexico
+351
+Hadi Mustafa
+26
+9
+2002
+Pakistan
+352
+Hadi Jamal
+4
+7
+2000
+Morocco
+353
+Nabil Rami
+4
+9
+1984
+Brazil
+354
+Ahmad Youssef
+4
+11
+2006
+Italy
+355
+Zain Idris
+14
+3
+2004
+Pakistan
+356
+Nabil Rami
+4
+4
+1999
+Brazil
+357
+Nabil Bilal
+15
+9
+2002
+Russia
+358
+Hasan Jamal
+12
+9
+1985
+Nigeria
+359
+Youssef Bilal
+14
+1
+1993
+Mexico
+360
+Ali Zain
+16
+10
+1989
+Brazil
+361
+Ali Karim
+14
+3
+2005
+Saudi Arabia
+362
+Youssef Samir
+9
+7
+1996
+Nigeria
+363
+Nabil Idris
+5
+10
+1992
+France
+364
+Tarek Ali
+3
+4
+1993
+Pakistan
+365
+Omar Zayd
+6
+2
+1982
+India
+366
+Rami Zayd
+13
+4
+1999
+India
+367
+Khalid Tarek
+1
+5
+2006
+Russia
+368
+Samir Bilal
+24
+3
+1980
+India
+369
+Nabil Zayd
+24
+5
+2001
+Japan
+370
+Samir Ali
+2
+4
+1989
+Russia
+371
+Hasan Omar
+13
+7
+2000
+Mexico
+372
+Karim Samir
+8
+5
+1983
+Brazil
+373
+Ahmad Zain
+18
+12
+1989
+Pakistan

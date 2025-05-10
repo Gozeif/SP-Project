@@ -1,0 +1,208 @@
+18
+Dancing Rangers
+0
+0
+612
+Karim Hadi
+13
+9
+1980
+China
+613
+Zain Hadi
+12
+9
+1997
+Turkey
+614
+Khalid Anas
+11
+12
+1994
+Brazil
+615
+Ali Omar
+6
+11
+2001
+Russia
+616
+Ahmad Bilal
+23
+9
+1997
+Spain
+617
+Fadi Youssef
+18
+11
+1998
+Kenya
+618
+Samir Zain
+26
+12
+1998
+Russia
+619
+Anas Youssef
+3
+10
+1986
+Lebanon
+620
+Nabil Ali
+14
+9
+1983
+Lebanon
+621
+Hasan Nabil
+16
+2
+2002
+Saudi Arabia
+622
+Rami Khalid
+7
+2
+2000
+Kenya
+623
+Hasan Fadi
+14
+12
+1989
+Spain
+624
+Mustafa Ali
+18
+6
+1992
+Saudi Arabia
+625
+Hadi Karim
+12
+5
+1995
+Nigeria
+626
+Zain Anas
+21
+7
+1989
+Russia
+627
+Mustafa Ali
+5
+5
+2004
+Mexico
+628
+Samir Zayd
+19
+8
+1993
+South Korea
+629
+Hadi Bilal
+28
+12
+1986
+Brazil
+630
+Zayd Nabil
+23
+7
+1983
+Italy
+631
+Bilal Nabil
+16
+4
+1989
+South Korea
+632
+Rami Fadi
+7
+11
+2006
+France
+633
+Tarek Hadi
+25
+1
+2000
+Italy
+634
+Hadi Mustafa
+25
+5
+2003
+Russia
+635
+Karim Zayd
+14
+1
+1990
+Russia
+636
+Mustafa Jamal
+10
+12
+1990
+America
+637
+Hasan Zain
+3
+11
+1981
+Japan
+638
+Khalid Zayd
+13
+11
+2002
+Mexico
+639
+Jamal Rami
+1
+3
+2003
+France
+640
+Khalid Omar
+4
+7
+1985
+Brazil
+641
+Hasan Omar
+7
+3
+1988
+China
+642
+Nabil Karim
+26
+2
+1982
+Mexico
+643
+Samir Hadi
+23
+2
+1984
+Kenya
+644
+Jamal Ahmad
+10
+6
+1990
+Lebanon
+645
+Hasan Bilal
+6
+10
+1981
+South Korea

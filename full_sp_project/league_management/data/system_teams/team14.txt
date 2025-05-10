@@ -1,0 +1,208 @@
+14
+Dancing Lions
+0
+0
+476
+Mustafa Zayd
+24
+11
+2004
+Kenya
+477
+Ali Zayd
+6
+10
+1994
+Mexico
+478
+Bilal Mustafa
+3
+3
+2002
+France
+479
+Anas Khalid
+1
+7
+1995
+Egypt
+480
+Zain Samir
+21
+12
+2003
+Italy
+481
+Mustafa Zayd
+5
+10
+1983
+Morocco
+482
+Mustafa Idris
+4
+8
+1995
+America
+483
+Nabil Nabil
+6
+6
+1988
+Turkey
+484
+Jamal Bilal
+27
+10
+1987
+China
+485
+Nabil Ahmad
+8
+1
+1993
+Brazil
+486
+Jamal Hasan
+27
+1
+2000
+Brazil
+487
+Hasan Ahmad
+3
+8
+2005
+America
+488
+Zayd Nabil
+28
+10
+2002
+Saudi Arabia
+489
+Rami Tarek
+25
+7
+1999
+Turkey
+490
+Nabil Rami
+15
+5
+2000
+France
+491
+Karim Bilal
+26
+9
+1984
+Spain
+492
+Karim Hadi
+15
+1
+1998
+Brazil
+493
+Youssef Samir
+12
+1
+1988
+China
+494
+Hasan Zain
+4
+6
+2006
+Spain
+495
+Nabil Zain
+14
+3
+1983
+America
+496
+Jamal Ali
+12
+12
+2000
+China
+497
+Idris Ali
+23
+5
+1996
+Nigeria
+498
+Youssef Bilal
+4
+5
+1982
+Russia
+499
+Hasan Idris
+23
+7
+1987
+France
+500
+Samir Samir
+20
+10
+2003
+Pakistan
+501
+Tarek Mustafa
+16
+10
+1994
+Russia
+502
+Zayd Nabil
+26
+2
+1983
+Egypt
+503
+Khalid Youssef
+11
+11
+1994
+Morocco
+504
+Omar Hadi
+12
+8
+1983
+Russia
+505
+Anas Samir
+24
+8
+2004
+South Korea
+506
+Zayd Fadi
+23
+2
+2005
+Lebanon
+507
+Ali Ahmad
+17
+11
+1986
+Spain
+508
+Ali Mustafa
+6
+12
+2000
+Japan
+509
+Mustafa Ahmad
+2
+8
+2005
+Nigeria

@@ -1,0 +1,208 @@
+0
+lol fc
+1
+3
+0
+kareem
+26
+4
+2006
+egypt
+1
+Zayd Khalid
+10
+8
+1994
+Russia
+2
+Jamal Zayd
+2
+2
+2003
+Italy
+3
+Anas Ali
+28
+11
+1986
+India
+4
+Zain Jamal
+4
+9
+2004
+Kenya
+5
+Ali Youssef
+27
+8
+1990
+Russia
+6
+Youssef Rami
+11
+7
+1985
+Italy
+7
+Zain Bilal
+24
+11
+2004
+Nigeria
+8
+Anas Omar
+21
+2
+2003
+France
+9
+Ali Karim
+18
+11
+1990
+America
+10
+Bilal Zain
+19
+3
+2002
+Brazil
+11
+Hadi Hadi
+5
+4
+1982
+Germany
+12
+Rami Zayd
+18
+6
+1998
+Russia
+13
+Hadi Youssef
+11
+4
+2000
+France
+14
+Ali Khalid
+8
+1
+1995
+Spain
+15
+Tarek Samir
+8
+12
+1988
+Turkey
+16
+Ahmad Jamal
+13
+1
+1990
+Morocco
+17
+Zayd Zayd
+19
+12
+1980
+Lebanon
+18
+Fadi Idris
+16
+10
+2003
+China
+19
+Jamal Mustafa
+21
+9
+1996
+America
+20
+Omar Zayd
+22
+6
+1990
+Turkey
+21
+Rami Ahmad
+4
+2
+1986
+Mexico
+22
+Karim Omar
+2
+8
+1992
+Saudi Arabia
+23
+Bilal Mustafa
+23
+6
+1984
+Egypt
+24
+Tarek Anas
+1
+4
+1982
+Kenya
+25
+Anas Khalid
+11
+1
+2005
+Russia
+26
+Rami Ahmad
+5
+12
+1994
+Germany
+27
+Hasan Zayd
+26
+12
+2000
+Japan
+28
+Samir Tarek
+14
+3
+1981
+America
+29
+Tarek Idris
+5
+11
+1994
+Saudi Arabia
+30
+Hasan Khalid
+4
+2
+1998
+Saudi Arabia
+31
+Hasan Jamal
+22
+5
+1994
+Italy
+32
+Omar Idris
+15
+8
+1988
+South Korea
+33
+Bilal Karim
+11
+9
+1983
+Mexico

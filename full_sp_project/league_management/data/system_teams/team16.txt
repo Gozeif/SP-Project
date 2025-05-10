@@ -1,0 +1,208 @@
+16
+Burning Warriors
+0
+0
+544
+Zayd Jamal
+23
+8
+2003
+Germany
+545
+Bilal Idris
+2
+8
+1983
+South Korea
+546
+Zain Mustafa
+23
+10
+2003
+China
+547
+Tarek Hadi
+2
+10
+1992
+Russia
+548
+Hadi Zayd
+18
+6
+1998
+Nigeria
+549
+Omar Bilal
+24
+8
+1981
+Mexico
+550
+Hasan Mustafa
+25
+7
+1985
+Russia
+551
+Ahmad Samir
+28
+11
+2001
+South Korea
+552
+Karim Ahmad
+2
+2
+2002
+Kenya
+553
+Anas Rami
+15
+11
+1996
+Pakistan
+554
+Ali Khalid
+12
+11
+1981
+France
+555
+Fadi Hadi
+20
+10
+1991
+Kenya
+556
+Mustafa Zain
+14
+5
+2004
+Turkey
+557
+Zain Mustafa
+15
+7
+1983
+Spain
+558
+Youssef Anas
+22
+10
+1993
+India
+559
+Nabil Jamal
+25
+12
+1996
+South Korea
+560
+Fadi Hasan
+21
+7
+1991
+South Korea
+561
+Zain Samir
+23
+2
+1985
+Brazil
+562
+Hadi Samir
+6
+7
+2005
+Mexico
+563
+Karim Mustafa
+10
+3
+1998
+Lebanon
+564
+Hadi Jamal
+10
+5
+1984
+Egypt
+565
+Zain Fadi
+26
+7
+1998
+Brazil
+566
+Idris Khalid
+3
+10
+2002
+Spain
+567
+Zain Youssef
+5
+1
+1984
+America
+568
+Ahmad Karim
+8
+5
+1982
+America
+569
+Khalid Youssef
+14
+5
+2006
+Lebanon
+570
+Omar Nabil
+15
+5
+2003
+France
+571
+Youssef Youssef
+28
+9
+1985
+Italy
+572
+Zayd Youssef
+24
+3
+1987
+Spain
+573
+Mustafa Fadi
+27
+3
+1988
+Kenya
+574
+Tarek Fadi
+5
+9
+1992
+Italy
+575
+Karim Fadi
+2
+5
+1983
+Saudi Arabia
+576
+Mustafa Tarek
+24
+12
+1999
+Pakistan
+577
+Jamal Idris
+21
+11
+1998
+Lebanon

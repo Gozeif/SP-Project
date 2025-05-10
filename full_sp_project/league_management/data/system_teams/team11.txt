@@ -1,0 +1,208 @@
+11
+Rising Giants
+1
+1
+374
+Tarek Omar
+9
+8
+1993
+Russia
+375
+Bilal Hasan
+19
+5
+2000
+Saudi Arabia
+376
+Zain Anas
+19
+11
+2002
+India
+377
+Karim Mustafa
+23
+9
+1981
+Lebanon
+378
+Hadi Hadi
+14
+8
+1985
+Russia
+379
+Tarek Ahmad
+4
+5
+1984
+France
+380
+Ali Khalid
+6
+7
+1986
+Lebanon
+381
+Hadi Idris
+7
+9
+1997
+India
+382
+Hadi Fadi
+2
+5
+1980
+Brazil
+383
+Nabil Nabil
+11
+9
+1986
+Kenya
+384
+Fadi Nabil
+14
+8
+2000
+Morocco
+385
+Ali Karim
+7
+1
+1980
+America
+386
+Youssef Zayd
+11
+2
+1990
+India
+387
+Tarek Khalid
+12
+10
+1983
+Nigeria
+388
+Samir Ali
+25
+2
+1987
+Mexico
+389
+Samir Ali
+22
+1
+2000
+Japan
+390
+Youssef Samir
+28
+8
+1994
+Turkey
+391
+Hadi Khalid
+19
+6
+1981
+Morocco
+392
+Mustafa Nabil
+14
+8
+1986
+Lebanon
+393
+Mustafa Tarek
+3
+10
+1993
+Spain
+394
+Samir Ahmad
+19
+10
+1994
+Germany
+395
+Hadi Youssef
+12
+10
+1982
+Spain
+396
+Khalid Tarek
+8
+11
+1996
+Kenya
+397
+Tarek Khalid
+19
+5
+1988
+Nigeria
+398
+Ahmad Youssef
+19
+1
+2001
+Japan
+399
+Rami Ali
+9
+6
+1989
+Brazil
+400
+Tarek Idris
+27
+11
+1992
+Spain
+401
+Idris Tarek
+14
+8
+1985
+Spain
+402
+Anas Ahmad
+4
+3
+1980
+Spain
+403
+Hadi Anas
+11
+2
+1987
+Mexico
+404
+Samir Rami
+21
+7
+1993
+Russia
+405
+Khalid Anas
+8
+2
+1982
+Kenya
+406
+Bilal Nabil
+16
+5
+1994
+Mexico
+407
+Tarek Anas
+20
+7
+1988
+India

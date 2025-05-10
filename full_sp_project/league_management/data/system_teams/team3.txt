@@ -1,0 +1,208 @@
+3
+Thundering Rangers
+1
+0
+102
+Ali Youssef
+9
+8
+1991
+Russia
+103
+Mustafa Omar
+19
+12
+1996
+Mexico
+104
+Omar Hasan
+10
+9
+1998
+Lebanon
+105
+Hadi Fadi
+10
+5
+1981
+China
+106
+Anas Hasan
+25
+5
+1991
+America
+107
+Omar Fadi
+23
+7
+2005
+Turkey
+108
+Hadi Mustafa
+13
+1
+1998
+Egypt
+109
+Anas Nabil
+22
+5
+1986
+Mexico
+110
+Ali Nabil
+1
+5
+1998
+Germany
+111
+Rami Khalid
+25
+4
+1985
+Pakistan
+112
+Karim Hasan
+12
+7
+1984
+Japan
+113
+Fadi Bilal
+6
+11
+1991
+China
+114
+Ali Mustafa
+18
+3
+1987
+Nigeria
+115
+Bilal Zayd
+28
+7
+1991
+Nigeria
+116
+Mustafa Anas
+11
+12
+1982
+Turkey
+117
+Jamal Ali
+19
+6
+1997
+Russia
+118
+Hasan Mustafa
+2
+12
+1996
+Japan
+119
+Hasan Hadi
+7
+7
+1996
+Saudi Arabia
+120
+Karim Khalid
+7
+3
+1998
+France
+121
+Omar Hasan
+18
+10
+1993
+Nigeria
+122
+Hasan Tarek
+14
+11
+2004
+Egypt
+123
+Zayd Hadi
+20
+12
+1999
+America
+124
+Zayd Nabil
+20
+10
+1989
+Brazil
+125
+Ahmad Hadi
+5
+12
+1998
+Spain
+126
+Youssef Hasan
+13
+5
+2005
+Brazil
+127
+Tarek Ali
+5
+12
+1998
+America
+128
+Jamal Khalid
+11
+11
+1982
+Italy
+129
+Ali Ali
+6
+3
+1984
+China
+130
+Tarek Nabil
+7
+4
+1989
+France
+131
+Khalid Idris
+15
+7
+1982
+Spain
+132
+Youssef Anas
+7
+4
+1988
+Japan
+133
+Tarek Khalid
+13
+7
+2001
+Russia
+134
+Mustafa Omar
+26
+4
+1996
+Saudi Arabia
+135
+Fadi Rami
+18
+8
+1981
+Nigeria

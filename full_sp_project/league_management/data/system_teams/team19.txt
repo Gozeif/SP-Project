@@ -1,0 +1,208 @@
+19
+Mystic Knights
+0
+0
+646
+Ahmad Samir
+22
+8
+2003
+Japan
+647
+Ahmad Anas
+22
+6
+1991
+Lebanon
+648
+Rami Omar
+4
+9
+1988
+America
+649
+Khalid Mustafa
+10
+12
+1985
+Pakistan
+650
+Khalid Anas
+28
+9
+1988
+Nigeria
+651
+Omar Nabil
+22
+6
+1995
+Morocco
+652
+Khalid Omar
+9
+4
+2000
+Russia
+653
+Zayd Rami
+13
+2
+2002
+Pakistan
+654
+Nabil Omar
+22
+7
+1984
+Russia
+655
+Zayd Zain
+12
+5
+1996
+Mexico
+656
+Youssef Hadi
+9
+4
+1994
+South Korea
+657
+Zain Karim
+13
+8
+1992
+South Korea
+658
+Hadi Idris
+12
+7
+1993
+Nigeria
+659
+Nabil Tarek
+26
+6
+1991
+Japan
+660
+Mustafa Omar
+15
+9
+1988
+Japan
+661
+Karim Karim
+7
+9
+2004
+South Korea
+662
+Hadi Omar
+27
+10
+2002
+Brazil
+663
+Fadi Ali
+27
+10
+1984
+France
+664
+Jamal Anas
+20
+1
+1986
+Morocco
+665
+Fadi Jamal
+23
+11
+2002
+Mexico
+666
+Ali Zayd
+11
+2
+2003
+Japan
+667
+Karim Fadi
+18
+9
+1999
+Kenya
+668
+Anas Fadi
+8
+9
+1996
+Russia
+669
+Karim Bilal
+4
+1
+1991
+Germany
+670
+Hasan Omar
+8
+8
+1990
+Lebanon
+671
+Zain Zayd
+9
+2
+1988
+India
+672
+Karim Mustafa
+26
+12
+1989
+Kenya
+673
+Ali Jamal
+17
+9
+1983
+South Korea
+674
+Hasan Karim
+13
+12
+1998
+France
+675
+Bilal Ahmad
+8
+12
+2003
+South Korea
+676
+Idris Mustafa
+14
+6
+2005
+Lebanon
+677
+Omar Nabil
+10
+1
+1995
+Brazil
+678
+Samir Ali
+28
+3
+1999
+China
+679
+Zain Anas
+14
+9
+1980
+South Korea

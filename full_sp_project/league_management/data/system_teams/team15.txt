@@ -1,0 +1,208 @@
+15
+Silver Lions
+0
+0
+510
+Fadi Tarek
+9
+6
+1985
+Lebanon
+511
+Ali Anas
+12
+11
+1994
+America
+512
+Ahmad Ahmad
+7
+1
+1981
+Mexico
+513
+Anas Hasan
+12
+12
+1998
+Turkey
+514
+Jamal Omar
+11
+7
+1996
+Kenya
+515
+Youssef Khalid
+25
+12
+1990
+Saudi Arabia
+516
+Idris Ali
+27
+6
+1980
+Spain
+517
+Zain Rami
+3
+8
+1981
+Japan
+518
+Ahmad Nabil
+24
+3
+1983
+Spain
+519
+Samir Mustafa
+15
+12
+1991
+Japan
+520
+Mustafa Hadi
+19
+10
+1999
+Kenya
+521
+Nabil Omar
+20
+12
+1980
+Turkey
+522
+Fadi Rami
+12
+8
+1986
+Saudi Arabia
+523
+Jamal Karim
+25
+11
+2005
+Saudi Arabia
+524
+Anas Tarek
+17
+11
+1981
+Turkey
+525
+Jamal Zayd
+25
+5
+1986
+Germany
+526
+Ali Mustafa
+9
+1
+2005
+Brazil
+527
+Fadi Khalid
+4
+12
+1985
+Saudi Arabia
+528
+Tarek Hasan
+2
+5
+1993
+Mexico
+529
+Zayd Samir
+8
+9
+1990
+Lebanon
+530
+Anas Karim
+27
+1
+1981
+Mexico
+531
+Rami Rami
+22
+3
+1999
+China
+532
+Mustafa Karim
+21
+11
+2002
+Brazil
+533
+Hasan Idris
+22
+4
+2003
+Italy
+534
+Khalid Nabil
+26
+3
+1989
+South Korea
+535
+Nabil Tarek
+21
+11
+1986
+Japan
+536
+Bilal Rami
+22
+7
+2003
+Lebanon
+537
+Idris Zain
+28
+5
+2000
+Turkey
+538
+Zayd Omar
+28
+11
+1982
+Spain
+539
+Rami Hadi
+23
+11
+1994
+Pakistan
+540
+Nabil Nabil
+2
+9
+1992
+Germany
+541
+Zayd Tarek
+15
+2
+1996
+Germany
+542
+Samir Hasan
+24
+4
+1992
+Mexico
+543
+Rami Ali
+6
+6
+1995
+Mexico

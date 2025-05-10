@@ -1,0 +1,208 @@
+17
+Blazing Waves
+0
+0
+578
+Hasan Nabil
+16
+10
+1986
+Kenya
+579
+Tarek Bilal
+18
+10
+1996
+Italy
+580
+Jamal Samir
+20
+4
+2004
+Morocco
+581
+Jamal Omar
+4
+3
+1992
+Pakistan
+582
+Anas Zayd
+13
+6
+1983
+France
+583
+Rami Ali
+4
+2
+1997
+Italy
+584
+Khalid Youssef
+28
+1
+2003
+Italy
+585
+Zain Hasan
+4
+12
+1991
+Morocco
+586
+Tarek Hasan
+25
+11
+1983
+Egypt
+587
+Hadi Zain
+11
+5
+2004
+Egypt
+588
+Zain Rami
+9
+5
+1985
+Pakistan
+589
+Jamal Zain
+10
+8
+2000
+South Korea
+590
+Nabil Fadi
+14
+11
+2005
+South Korea
+591
+Mustafa Idris
+26
+4
+1998
+America
+592
+Zain Zayd
+27
+9
+1994
+America
+593
+Fadi Karim
+14
+5
+1986
+India
+594
+Ali Zayd
+27
+9
+1996
+India
+595
+Jamal Hadi
+7
+12
+2003
+Morocco
+596
+Omar Ahmad
+19
+2
+1992
+Lebanon
+597
+Ali Idris
+11
+5
+1998
+Italy
+598
+Mustafa Jamal
+26
+2
+1984
+America
+599
+Zain Ahmad
+19
+7
+1992
+France
+600
+Rami Rami
+22
+4
+1993
+Egypt
+601
+Ahmad Nabil
+17
+2
+1980
+Japan
+602
+Ahmad Anas
+7
+11
+2006
+Morocco
+603
+Zain Hadi
+11
+12
+1998
+Mexico
+604
+Ali Khalid
+20
+2
+1984
+Mexico
+605
+Omar Idris
+22
+8
+2004
+Nigeria
+606
+Zain Fadi
+23
+8
+1997
+Morocco
+607
+Mustafa Khalid
+9
+3
+1985
+Saudi Arabia
+608
+Ahmad Fadi
+17
+1
+1994
+China
+609
+Fadi Tarek
+13
+4
+2006
+Germany
+610
+Youssef Nabil
+19
+1
+2004
+Italy
+611
+Karim Bilal
+20
+4
+2006
+Japan

@@ -1,0 +1,208 @@
+9
+Iron Eagles
+0
+0
+306
+Hadi Omar
+26
+8
+1991
+India
+307
+Fadi Jamal
+24
+10
+1986
+China
+308
+Jamal Mustafa
+13
+2
+1983
+Italy
+309
+Mustafa Rami
+18
+7
+1980
+Turkey
+310
+Ali Fadi
+6
+9
+1998
+China
+311
+Bilal Idris
+16
+12
+2000
+Lebanon
+312
+Hadi Omar
+9
+1
+1993
+America
+313
+Nabil Idris
+14
+12
+1994
+Pakistan
+314
+Ali Youssef
+16
+4
+1982
+America
+315
+Fadi Idris
+19
+5
+1994
+China
+316
+Hadi Idris
+21
+7
+1982
+Japan
+317
+Youssef Tarek
+10
+1
+1987
+Italy
+318
+Mustafa Hadi
+4
+7
+1996
+Japan
+319
+Zayd Zain
+7
+9
+1989
+Mexico
+320
+Zain Jamal
+14
+3
+2006
+Morocco
+321
+Youssef Samir
+18
+1
+1995
+South Korea
+322
+Ahmad Mustafa
+4
+11
+2003
+Pakistan
+323
+Youssef Youssef
+20
+6
+1984
+Russia
+324
+Tarek Mustafa
+22
+8
+1993
+Pakistan
+325
+Zain Ali
+7
+1
+1997
+Spain
+326
+Khalid Tarek
+14
+2
+2000
+Kenya
+327
+Ahmad Ali
+27
+7
+1995
+Italy
+328
+Rami Zain
+14
+12
+1980
+South Korea
+329
+Karim Zayd
+26
+12
+1996
+Spain
+330
+Mustafa Hadi
+11
+9
+1981
+Brazil
+331
+Bilal Idris
+25
+12
+1999
+Turkey
+332
+Zain Mustafa
+25
+12
+1995
+Italy
+333
+Zayd Zayd
+17
+4
+2004
+India
+334
+Karim Zain
+14
+2
+1992
+Turkey
+335
+Jamal Nabil
+25
+3
+1985
+South Korea
+336
+Idris Karim
+7
+4
+1989
+Japan
+337
+Hasan Ali
+6
+11
+1987
+Italy
+338
+Zain Omar
+15
+6
+2002
+Egypt
+339
+Hasan Karim
+20
+1
+1998
+South Korea

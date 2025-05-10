@@ -1,0 +1,208 @@
+7
+Rising Lions
+0
+0
+238
+Rami Jamal
+5
+5
+1997
+Egypt
+239
+Tarek Karim
+26
+3
+2002
+Egypt
+240
+Rami Hasan
+4
+3
+1984
+France
+241
+Zayd Hadi
+11
+6
+1980
+Mexico
+242
+Nabil Nabil
+9
+8
+1994
+Turkey
+243
+Bilal Hasan
+13
+4
+1992
+Turkey
+244
+Omar Khalid
+28
+9
+1998
+Turkey
+245
+Fadi Khalid
+13
+7
+1999
+America
+246
+Zayd Fadi
+11
+5
+1986
+Spain
+247
+Ali Karim
+2
+8
+1993
+India
+248
+Hadi Fadi
+13
+11
+1993
+India
+249
+Samir Mustafa
+12
+9
+1989
+India
+250
+Anas Jamal
+14
+9
+2001
+South Korea
+251
+Khalid Jamal
+28
+12
+1996
+Spain
+252
+Idris Rami
+14
+11
+1992
+Egypt
+253
+Tarek Hadi
+21
+10
+2005
+Nigeria
+254
+Ahmad Karim
+14
+7
+1991
+South Korea
+255
+Mustafa Ahmad
+25
+6
+1985
+Nigeria
+256
+Idris Anas
+13
+3
+1994
+Russia
+257
+Zayd Hadi
+27
+11
+2001
+Saudi Arabia
+258
+Rami Rami
+13
+6
+1981
+Russia
+259
+Bilal Karim
+1
+1
+1983
+Nigeria
+260
+Ahmad Zayd
+15
+11
+1980
+Egypt
+261
+Samir Ahmad
+22
+9
+2003
+China
+262
+Ahmad Tarek
+9
+11
+1989
+Germany
+263
+Anas Idris
+15
+3
+1996
+Nigeria
+264
+Khalid Youssef
+7
+7
+1995
+Pakistan
+265
+Ali Nabil
+3
+2
+2005
+Russia
+266
+Zain Tarek
+9
+7
+2004
+Mexico
+267
+Omar Zain
+20
+10
+1986
+Brazil
+268
+Omar Youssef
+21
+5
+2000
+America
+269
+Bilal Omar
+1
+1
+2005
+Japan
+270
+Youssef Youssef
+7
+5
+1987
+India
+271
+Ahmad Hasan
+4
+12
+1983
+Morocco

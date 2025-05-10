@@ -1,0 +1,208 @@
+1
+Silver Waves
+1
+1
+34
+Tarek Zain
+12
+8
+2006
+Spain
+35
+Ahmad Zayd
+5
+11
+1983
+Japan
+36
+Mustafa Rami
+26
+1
+2000
+Egypt
+37
+Khalid Ali
+15
+12
+1999
+Germany
+38
+Ali Tarek
+26
+12
+1991
+India
+39
+Youssef Rami
+19
+9
+2005
+Italy
+40
+Tarek Karim
+5
+12
+2006
+Japan
+41
+Khalid Anas
+23
+9
+1984
+China
+42
+Ali Hasan
+22
+2
+2002
+Lebanon
+43
+Hadi Fadi
+9
+9
+1987
+India
+44
+Hadi Youssef
+13
+5
+2004
+Spain
+45
+Mustafa Tarek
+23
+9
+1998
+Saudi Arabia
+46
+Anas Jamal
+20
+11
+1982
+Mexico
+47
+Hasan Bilal
+6
+11
+1987
+Pakistan
+48
+Khalid Ahmad
+12
+6
+1991
+Saudi Arabia
+49
+Bilal Anas
+22
+1
+2006
+Russia
+50
+Zayd Zayd
+17
+1
+1996
+France
+51
+Youssef Zain
+5
+8
+1995
+Saudi Arabia
+52
+Fadi Anas
+8
+9
+1984
+Morocco
+53
+Rami Anas
+13
+3
+2001
+Italy
+54
+Omar Zayd
+14
+1
+2002
+Russia
+55
+Anas Anas
+6
+9
+1990
+Mexico
+56
+Nabil Ahmad
+18
+1
+1982
+Lebanon
+57
+Fadi Tarek
+13
+5
+1993
+Kenya
+58
+Omar Zain
+11
+9
+2005
+Morocco
+59
+Ali Jamal
+14
+10
+1991
+Turkey
+60
+Youssef Ahmad
+23
+6
+1991
+Lebanon
+61
+Ali Tarek
+18
+10
+1980
+Saudi Arabia
+62
+Karim Jamal
+19
+5
+1997
+Kenya
+63
+Zain Bilal
+15
+8
+1990
+China
+64
+Tarek Anas
+10
+2
+2003
+Italy
+65
+Bilal Tarek
+10
+3
+1986
+Turkey
+66
+Youssef Tarek
+15
+3
+1982
+Brazil
+67
+Samir Youssef
+9
+2
+2002
+Japan
